@@ -40,7 +40,7 @@ Le projet se matérialise à travers un pupitre de débat, des interventions sur
 
 Le visiteur est interpellé, on lui pose une question, il répond par l'affirmative ou la négative, apparait alors un commentaire opposé d'un autre visiteur. Celui-ci est alors invité à préciser son propos et nourrira alors le fil de débat.
 
-** Photos**
+**Photos**
 
 **Salle(s) / objet ou espaces remixés **
 
@@ -158,7 +158,8 @@ Fabrication d'un pupitre dont l'inspiration est directement orientée vers les b
 
 Code source appli web (php/mysql)
 
-[](https://framagit.org/tounoki/breizhagratter)https://framagit.org/tounoki/breizhagratter[ ](https://framagit.org/tounoki/breizhagratter)
+[Code source](https://framagit.org/tounoki/breizhagratter)
+
 <ul class="comment"><li>
 </li></ul class="comment">
 
