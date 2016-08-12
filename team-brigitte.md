@@ -51,19 +51,18 @@ Mais c'est quoi ? Ben, un PréhistoPiano ! Mais ça sert à quoi ? Bah, à faire
 
 **Description**
 
-<undefined><li>Le Préhistopiano est un dispositif intéractif et sensoriel pour toucher et écouter la Préhistoire. </li>
-<li>
-</li>
-<li>Il permet de faire connaissance avec les outils de la Préhistoire par lexpérimentation sensorielle et lémotion. </li>
-<li>
-</li>
-<li>Nous présentons ici u**ne matéria**uthèque sous la forme dun clavier. Linteraction tactile avec les objets présentés (grattoir, burin, haches, etc.) enclenche la diffusion de contenus sonores liés à lutilisation de lobjet, aux gestes et aux techniques.</li>
-<li>
-</li>
-<li>Les objets sont classés chronologiquement pour couvrir les périodes de la Préhistoire : depuis le Paléolithique jusquà lÂge du Fer. </li>
-<li>
-</li>
-<li>Un voyage musical au temps de la Préhistoire dont vous êtes le compositeur. </li></undefined>
+Le Préhistopiano est un dispositif intéractif et sensoriel pour toucher et écouter la Préhistoire. 
+
+Il permet de faire connaissance avec les outils de la Préhistoire par lexpérimentation sensorielle et lémotion. 
+
+
+Nous présentons ici u**ne matéria**uthèque sous la forme dun clavier. Linteraction tactile avec les objets présentés (grattoir, burin, haches, etc.) enclenche la diffusion de contenus sonores liés à lutilisation de lobjet, aux gestes et aux techniques.
+
+
+Les objets sont classés chronologiquement pour couvrir les périodes de la Préhistoire : depuis le Paléolithique jusquà lÂge du Fer. 
+
+
+Un voyage musical au temps de la Préhistoire dont vous êtes le compositeur. </undefined>
 
 **Articles de presse :**
 
@@ -322,7 +321,7 @@ Avec le<u> Préhistopiano</u>,**appropriez-vous les objets de la Préhistoire**,
 Dialoguez avec des objets, de la Paléolithique à l'Age de Bronze, et**voyagez dans le temps**en créant votre propre bande sonore de la Préhistoire !
 
 ## CAHIER DE LABORATOIRE
-<undefined><li>**Vous avez changé d'avis en cours de route, incrivez pourquoi**</li></undefined>
+<undefined>**Vous avez changé d'avis en cours de route, incrivez pourquoi**</undefined>
 
 **CAHIER DES CHARGES**
 
