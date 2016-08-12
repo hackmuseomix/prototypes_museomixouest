@@ -2,59 +2,52 @@
 
 ![](https://hackpad-attachments.s3.amazonaws.com/museomixouest.hackpad.com_QU5wtwGzxUj_p.512622_1447924675248_logo-museofest-02.jpg)
 
-*   SVP compléter chacune des informations demandées, c'est pour la postérité!
+*   SVP complÃ©ter chacune des informations demandÃ©es, c'est pour la postÃ©ritÃ©!
 
-**Équipe**
+**Ã‰quipe**
 
 Les Fest'oyeurs
 
-*   Inscrire également le twitter ou autre
-
+*   Inscrire Ã©galement le twitter ou autre
 *   Contenu : Daniel Bonifacio
-*   Médiation / Design / UX : Anaïs Poncet ([@ana_poncet](https://twitter.com/ana_poncet))
+*   MÃ©diation / Design / UX : AnaÃ¯s Poncet ([@ana_poncet](https://twitter.com/ana_poncet))
 *   Communication : @everyone
 *   Graphisme : Lisa Hamon ([portfolio](http://tisatisa.fr/))
-*   Développement : Nicolas Guichard ([portfolio](http://www.saladetransistoroignon.com/) )
+*   DÃ©veloppement : Nicolas Guichard ([portfolio](http://www.saladetransistoroignon.com/) )
 *   Fabrication : Anne Wodrascka ([portfolio](http://annewodrascka.wix.com/design))
 
 ![](https://hackpad-attachments.s3.amazonaws.com/museomixouest.hackpad.com_QU5wtwGzxUj_p.512243_1447575073714_Museomix-2.jpg)
 
-De gauche à droite : Vincent H., Anne W.,Daniel B., Anaïs P., Nicolas G., Lisa H.
+De gauche Ã  droite : Vincent H., Anne W.,Daniel B., AnaÃ¯s P., Nicolas G., Lisa H.
 
 **Support**
 
-*   INSCRIRE LE NOM DES PERSONNES QUI VOUS ONT AIDÉ
-
-*   Facilitation : Vincent Hilléreau ([@vincentdoth](http://twitter.com/vincentdoth))
-*   Ingénieux contenu : Eric Citharel
-*   Ingénieux maker : Matthieu Quantin
+*   INSCRIRE LE NOM DES PERSONNES QUI VOUS ONT AIDÃ‰
+*   Facilitation : Vincent HillÃ©reau ([@vincentdoth](http://twitter.com/vincentdoth))
+*   IngÃ©nieux contenu : Eric Citharel
+*   IngÃ©nieux maker : Matthieu Quantin
 
 ## Description
 
-*
-
 [](https://twitter.com/ana_poncet/status/665527208136544256)https://twitter.com/ana_poncet/status/665527208136544256
 
-***Vidéo finale**
+**VidÃ©o finale**
 
-Notre projet en théorie :
-
-*
+Notre projet en thÃ©orie :
 
 [](https://www.youtube.com/watch?v=8D5rWioDFP0)https://www.youtube.com/watch?v=8D5rWioDFP0
 
 Notre projet en live (source : [](http://www.unidivers.fr/museomix-2015-musee-de-bretagne-rennes/))http://www.unidivers.fr/museomix-2015-musee-de-bretagne-rennes/) :
 
-*
-
 [](https://www.youtube.com/watch?v=i5zSpoVzYb8)https://www.youtube.com/watch?v=i5zSpoVzYb8
 
 **Description**
-<undefined><li>Événement éphémère au sein du musée de Bretagne : en nocturne, après la fermeture du musée</li></undefined>
 
-un Fest Noz sensitif et lumineux, en interaction avec les Suvres du musée.
+<undefined><li>Ã‰vÃ©nement Ã©phÃ©mÃ¨re au sein du musÃ©e de Bretagne : en nocturne, aprÃ¨s la fermeture du musÃ©e</li></undefined>
 
-(par exemple lors de la Nuit des musées) 
+un Fest Noz sensitif et lumineux, en interaction avec les Suvres du musÃ©e.
+
+(par exemple lors de la Nuit des musÃ©es) 
 
 **Photos**
 
@@ -70,17 +63,17 @@ un Fest Noz sensitif et lumineux, en interaction avec les Suvres du musée.
 
 ![](https://hackpad-attachments.s3.amazonaws.com/museomixouest.hackpad.com_QU5wtwGzxUj_p.512243_1447608645793_DSCF7038.JPG)
 
-**Salle(s) / objet ou espaces remixés**
+**Salle(s) / objet ou espaces remixÃ©s**
 
-Dans l'idée, tout le musée sera remixé, avec un parcours inscrit au sol (avec des pas de sabots) et différents espaces comportant des dalles lumineuses (en forme de sabot également).
+Dans l'idÃ©e, tout le musÃ©e sera remixÃ©, avec un parcours inscrit au sol (avec des pas de sabots) et diffÃ©rents espaces comportant des dalles lumineuses (en forme de sabot Ã©galement).
 
-Pour ce WE, il s'agit de montrer notre dispositif sur une des zones du musée. Nous avons choisi la zone de l'Ancien Régime (près des devants de coffre) pour notre dispositif prototypé.
+Pour ce WE, il s'agit de montrer notre dispositif sur une des zones du musÃ©e. Nous avons choisi la zone de l'Ancien RÃ©gime (prÃ¨s des devants de coffre) pour notre dispositif prototypÃ©.
 
-La danse proposée sur cet espace sera un Laridé à 8 temps, une danse assez simple, qui permet un parcours libre, tourné vers les coffres et avec des arrêts qui permettent d'admirer les  parties éclairées.
+La danse proposÃ©e sur cet espace sera un LaridÃ© Ã  8 temps, une danse assez simple, qui permet un parcours libre, tournÃ© vers les coffres et avec des arrÃªts qui permettent d'admirer les  parties Ã©clairÃ©es.
 
 **Liens externes (si applicable) **
 
-*   Photos, vidéos, Site Internet, etc. 
+*   Photos, vidÃ©os, Site Internet, etc. 
 
 **Sources d'inspiration**
 
@@ -92,108 +85,108 @@ Fest Noz
 
 *   Note: Cette licence est obligatoire pour tous les prototypes Museomix (voir charte)
 
-Ce prototype est sous licence Creative Commons - Paternité - Partage à l'identique 3.0 France (CC-BY-SA)
+Ce prototype est sous licence Creative Commons - PaternitÃ© - Partage Ã  l'identique 3.0 France (CC-BY-SA)
 
 ![](https://hackpad-attachments.s3.amazonaws.com/museomixouest.hackpad.com_gTmqkySj1md_p.510268_1447266871674_Cc-by-sa_(1).svg.png)
 
 ## CONTENU
 
-**Intention / Contexte / Volonté de départ**
+**Intention / Contexte / VolontÃ© de dÃ©part**
 
-Contexte : Musée de la Bretagne, à la nuit tombée.
+Contexte : MusÃ©e de la Bretagne, Ã  la nuit tombÃ©e.
 
-Nous proposons un parcours de danse dans le musée qui permette aux visiteurs de le découvrir de manière ludique et conviviale. Ils sont amenés à vivre un instant de transe via un dispositif qui crée un lien sensoriel et émotionnel avec les Suvres exposées. 
+Nous proposons un parcours de danse dans le musÃ©e qui permette aux visiteurs de le dÃ©couvrir de maniÃ¨re ludique et conviviale. Ils sont amenÃ©s Ã  vivre un instant de transe via un dispositif qui crÃ©e un lien sensoriel et Ã©motionnel avec les Suvres exposÃ©es. 
 
-Le "visi-danseur" (=visiteur-danseur) devient acteur de son instant fesno'muséal. Il joue avec les Suvres en direct : lorsqu'il passe sur une dalle lumineuse, il illumine une partie de pièce de musée face à lui. Il réveille les Suvres endormies, au rythme de ses pas.
+Le "visi-danseur" (=visiteur-danseur) devient acteur de son instant fesno'musÃ©al. Il joue avec les Suvres en direct : lorsqu'il passe sur une dalle lumineuse, il illumine une partie de piÃ¨ce de musÃ©e face Ã  lui. Il rÃ©veille les Suvres endormies, au rythme de ses pas.
 
-Entrez dans la danse, entrez dans la transe ! Venez guincher au musée et allumer les oeuvres au rythme de vos pas !
+Entrez dans la danse, entrez dans la transe ! Venez guincher au musÃ©e et allumer les oeuvres au rythme de vos pas !
 
 ![](https://hackpad-attachments.s3.amazonaws.com/museomixouest.hackpad.com_QU5wtwGzxUj_p.512243_1447608112076_Logo final.jpg)
 
 **Raison du choix de l'objet ou de l'espace**
 
-A terme, d'autres ambiances et d'autres danses seront abordées dans les autres zones du musée :
+A terme, d'autres ambiances et d'autres danses seront abordÃ©es dans les autres zones du musÃ©e :
 
-![](https://hackpad-attachments.s3.amazonaws.com/museomixouest.hackpad.com_QU5wtwGzxUj_p.512243_1447607666198_Museo Fest - plan des danses dans le musée.jpg)
+![](https://hackpad-attachments.s3.amazonaws.com/museomixouest.hackpad.com_QU5wtwGzxUj_p.512243_1447607666198_Museo Fest - plan des danses dans le musÃ©e.jpg)
 
-On a choisi d'investir tout le musée pour accueillir un maximum de personnes et ne vexer aucune ère historique.
+On a choisi d'investir tout le musÃ©e pour accueillir un maximum de personnes et ne vexer aucune Ã¨re historique.
 
-On a plus particulièrement choisi de créer un prototype pour l'espace de l'ancien régime car le lieu était assez ouvert pour installer nos dalles lumineuses et installer les vidéoprojecteurs. D'ailleurs, le lieu nous semblait déjà poétique et donc propice à un jeu de lumières.
+On a plus particuliÃ¨rement choisi de crÃ©er un prototype pour l'espace de l'ancien rÃ©gime car le lieu Ã©tait assez ouvert pour installer nos dalles lumineuses et installer les vidÃ©oprojecteurs. D'ailleurs, le lieu nous semblait dÃ©jÃ  poÃ©tique et donc propice Ã  un jeu de lumiÃ¨res.
 
 **Sources documentaires**
 
 *   Fest Noz dans un bar place Saint-Anne, Le Ty Anna
-*   Catalogue des enregistrements sonores - Bibliothèque des champs libres - section patrimoine
+*   Catalogue des enregistrements sonores - BibliothÃ¨que des champs libres - section patrimoine
 
 ## UTILISATEUR
 
-**Scénario utilisateur**
+**ScÃ©nario utilisateur**
 
-1- Grosse communication autour de l'évènement
+1- Grosse communication autour de l'Ã©vÃ¨nement
 
-2- Le visiteur arrive et découvre le dispositif (dalles lumineuses au sol)
+2- Le visiteur arrive et dÃ©couvre le dispositif (dalles lumineuses au sol)
 
-3- Le visiteur observe les personnes déjà sur la piste de danse, entraînées par un meneur de danse
+3- Le visiteur observe les personnes dÃ©jÃ  sur la piste de danse, entraÃ®nÃ©es par un meneur de danse
 
-4- Le visiteur se laisse entraîner dans la danse et devient "visi-danseur" (=visiteur-danseur)
+4- Le visiteur se laisse entraÃ®ner dans la danse et devient "visi-danseur" (=visiteur-danseur)
 
 5- Le visi-danseur kiffe la vibes
 
-6- Grâce aux lumières qui se déclenchent, il entre en interaction avec les Suvres
+6- GrÃ¢ce aux lumiÃ¨res qui se dÃ©clenchent, il entre en interaction avec les Suvres
 
-7- Le visi-danseur commence à ressentir la transe
+7- Le visi-danseur commence Ã  ressentir la transe
 
-8- Le visi-danseur continue à s'imprégner des musiques bretonnes toute la nuit. Il fait vibrer le musée et l'illumine au gré de ses pas de danse !
+8- Le visi-danseur continue Ã  s'imprÃ©gner des musiques bretonnes toute la nuit. Il fait vibrer le musÃ©e et l'illumine au grÃ© de ses pas de danse !
 
-9- Le visi-danseur repart avec une expérience unique : il a vécu le musée de manière participative et en groupe ! 
+9- Le visi-danseur repart avec une expÃ©rience unique : il a vÃ©cu le musÃ©e de maniÃ¨re participative et en groupe ! 
 
 **Mode d'emploi ou lien vers le mode d'emploi**
 
 *   Affiche de communication
-*   Apprenez le laridé à 8 temps : [](https://www.youtube.com/watch?v=4mZwUelKKw0)https://www.youtube.com/watch?v=4mZwUelKKw0
+*   Apprenez le laridÃ© Ã  8 temps : [](https://www.youtube.com/watch?v=4mZwUelKKw0)https://www.youtube.com/watch?v=4mZwUelKKw0
 
 ## FONCTIONNEMENT ET FABRICATION
 
-**Machines ou technologie(s) utilisées**
+**Machines ou technologie(s) utilisÃ©es**
 
-Dispositif "dalles lumineuses et sensitives reliées à un système de projection lumineuse"
+Dispositif "dalles lumineuses et sensitives reliÃ©es Ã  un systÃ¨me de projection lumineuse"
 
-Chemin de danse marqué au sol.
+Chemin de danse marquÃ© au sol.
 
 **Principe de fonctionnement**
 
-Pendant la danse, les visiteurs vont marcher sur des dalles lumineuses qui ont pour fonction d'activer la projection de formes lumineuses sur les Suvres exposées dans le musée. Ces dalles ont pour fonction de servir d'interrupteur.  Les danseurs les allument/éteignent sur leur passage.
+Pendant la danse, les visiteurs vont marcher sur des dalles lumineuses qui ont pour fonction d'activer la projection de formes lumineuses sur les Suvres exposÃ©es dans le musÃ©e. Ces dalles ont pour fonction de servir d'interrupteur.  Les danseurs les allument/Ã©teignent sur leur passage.
 
-Le chemin de danse est matérialisé par des stickers fluo collés au sol.  
+Le chemin de danse est matÃ©rialisÃ© par des stickers fluo collÃ©s au sol.  
 
 **Fabrication**
 
-Les dalles ont été découpées dans du PMMA et du contre-plaqué. Elles sont équipées de leds pour qu'on puisse les repérer plus facilement sur le parcours. Deux vis sont positionnées sur la partie avant de la dalle. Elles permettront de faire le contact avec les pieds des danseurs équipés d'un chausson pourvu d'un scotch aluminium. 
+Les dalles ont Ã©tÃ© dÃ©coupÃ©es dans du PMMA et du contre-plaquÃ©. Elles sont Ã©quipÃ©es de leds pour qu'on puisse les repÃ©rer plus facilement sur le parcours. Deux vis sont positionnÃ©es sur la partie avant de la dalle. Elles permettront de faire le contact avec les pieds des danseurs Ã©quipÃ©s d'un chausson pourvu d'un scotch aluminium. 
 
-Les dalles sont reliées à une carte Arduino qui transmet à un ordinateur l'activation/désactivation des dalles par les visiteurs.  Via le logiciel Processing, l'ordinateur génère des images qui sont projetées sur les Suvres.
+Les dalles sont reliÃ©es Ã  une carte Arduino qui transmet Ã  un ordinateur l'activation/dÃ©sactivation des dalles par les visiteurs.  Via le logiciel Processing, l'ordinateur gÃ©nÃ¨re des images qui sont projetÃ©es sur les Suvres.
 
-**Liste des matériaux, outillages**
+**Liste des matÃ©riaux, outillages**
 
 *   PMMA
-*   contre-plaqué
+*   contre-plaquÃ©
 *   leds
-*   résistances
+*   rÃ©sistances
 *   vis
-*   Ruban cuivré (à fixer sous sa chaussure pour relier les deux vis)
-*   fils électriques
+*   Ruban cuivrÃ© (Ã  fixer sous sa chaussure pour relier les deux vis)
+*   fils Ã©lectriques
 *   carte Arduino (Uno)
 *   XBEE (transmetteur sans fil)
-*   fer à souder et étain
+*   fer Ã  souder et Ã©tain
 *   pince coupante
 *   vinyl auto-collant
 *   bande led neo-pixel
 *   transformateur
 
-**Plan, schéma électriques, photos**
+**Plan, schÃ©ma Ã©lectriques, photos**
 
 ![](https://hackpad-attachments.s3.amazonaws.com/museomixouest.hackpad.com_QU5wtwGzxUj_p.512243_1447608880061_DSCF7029.JPG)
 
-Sous les chaussures : ruban de cuivre autocollant pour connecter, lors de la pose du pied sur la dalle sensitive, les deux rubans de cuivre collés sur la dalle en PMMA.
+Sous les chaussures : ruban de cuivre autocollant pour connecter, lors de la pose du pied sur la dalle sensitive, les deux rubans de cuivre collÃ©s sur la dalle en PMMA.
 
 ![](https://hackpad-attachments.s3.amazonaws.com/museomixouest.hackpad.com_QU5wtwGzxUj_p.512243_1447608907169_DSCF7032.JPG)
 
@@ -211,11 +204,11 @@ Plan du dessus de la dalle en PMMA
 
 ![](https://hackpad-attachments.s3.amazonaws.com/museomixouest.hackpad.com_QU5wtwGzxUj_p.512578_1447609889099_pieds bretons-pied CP.jpg)
 
-Plan du dessous de la dalle en contre-plaqué
+Plan du dessous de la dalle en contre-plaquÃ©
 
 ![](https://hackpad-attachments.s3.amazonaws.com/museomixouest.hackpad.com_QU5wtwGzxUj_p.512243_1447578512470_20151115_094258.jpg)
 
-Développement en cours 
+DÃ©veloppement en cours 
 
 ![](https://hackpad-attachments.s3.amazonaws.com/museomixouest.hackpad.com_QU5wtwGzxUj_p.512622_1447694147171_IMG_4396.png)
 
@@ -223,26 +216,29 @@ Soudure des leds qui se trouveront sous les dalles lumineuses du prototype
 
 ![](https://hackpad-attachments.s3.amazonaws.com/museomixouest.hackpad.com_QU5wtwGzxUj_p.512243_1447593720266_20151115_102959.jpg)
 
-Découpe de vis
+DÃ©coupe de vis
 
 ## FICHIERS ET CODES SOURCES
 
 ![](https://hackpad-attachments.s3.amazonaws.com/museomixouest.hackpad.com_QU5wtwGzxUj_p.532142_1450263730742_shema_global.jpg)
 
-**   ![](https://hackpad-attachments.s3.amazonaws.com/museomixouest.hackpad.com_QU5wtwGzxUj_p.532142_1450263783202_shema_elec.jpg)
-***   **Les fichiers sources sont disponibles sur le [GITHUB de MUSEO'FEST](https://github.com/nicoguich/MUSEO-FEST) **
 
-## MÉDIATION
+![](https://hackpad-attachments.s3.amazonaws.com/museomixouest.hackpad.com_QU5wtwGzxUj_p.532142_1450263783202_shema_elec.jpg)
 
-**L'envie de l'équipe était de lutter contre cette image un peu barbante et poussiéreuse du musée. Nous nous sommes demandés comment innover, amener un nouveau public et proposer une nouvelle expérience. Notre proposition : Organiser un Fest Noz au sein du musée pour :**
+**Les fichiers sources sont disponibles sur le [GITHUB de MUSEO'FEST](https://github.com/nicoguich/MUSEO-FEST)**
 
-*   Faire venir un autre type de public (autre que le public habituel des musées) 
-*   Créer un évènement festif et intergénérationnel
-*   Faire vivre au public une expérience muséale sensorielle et émotionnelle : créer un rapport entre le public et les  Suvres via un dispositif sensitif et lumineux qui éclairera les  différentes Suvres du musée au gré des pas des visi-danseurs. Les Suvres  deviennent animées. Le musée répond au dynamisme du public !
-*   Créer une synergie entre les visiteurs en les invitant à danser tous ensemble. Ils seront connectés physiquement les uns aux autres. Plus rien à avoir avec les visites traditionnelles des musées très individuelles.
-*   Arriver à créer chez le public un état de transe (c'est-à-dire que le public s'évade spirituellement, emporté par la musique)
+## MÃ‰DIATION
+
+**L'envie de l'Ã©quipe Ã©tait de lutter contre cette image un peu barbante et poussiÃ©reuse du musÃ©e. Nous nous sommes demandÃ©s comment innover, amener un nouveau public et proposer une nouvelle expÃ©rience. Notre proposition : Organiser un Fest Noz au sein du musÃ©e pour :**
+
+*   Faire venir un autre type de public (autre que le public habituel des musÃ©es) 
+*   CrÃ©er un Ã©vÃ¨nement festif et intergÃ©nÃ©rationnel
+*   Faire vivre au public une expÃ©rience musÃ©ale sensorielle et Ã©motionnelle : crÃ©er un rapport entre le public et les  Suvres via un dispositif sensitif et lumineux qui Ã©clairera les  diffÃ©rentes Suvres du musÃ©e au grÃ© des pas des visi-danseurs. Les Suvres  deviennent animÃ©es. Le musÃ©e rÃ©pond au dynamisme du public !
+*   CrÃ©er une synergie entre les visiteurs en les invitant Ã  danser tous ensemble. Ils seront connectÃ©s physiquement les uns aux autres. Plus rien Ã  avoir avec les visites traditionnelles des musÃ©es trÃ¨s individuelles.
+*   Arriver Ã  crÃ©er chez le public un Ã©tat de transe (c'est-Ã -dire que le public s'Ã©vade spirituellement, emportÃ© par la musique)
 
 ## CAHIER DE LABORATOIRE
-<undefined><li>**Vous avez changé d'avis en cours de route, inscrivez pourquoi**</li></undefined>
 
-*   Au départ, on pensait créer des modules d'apprentissage à différents endroits du musée. Finalement nous avons abandonné l'idée pour permettre au public d'arriver à un état de transe, en dansant sans discontinuer (ou presque !)
+<undefined><li>**Vous avez changÃ© d'avis en cours de route, inscrivez pourquoi**</li></undefined>
+
+*   Au dÃ©part, on pensait crÃ©er des modules d'apprentissage Ã  diffÃ©rents endroits du musÃ©e. Finalement nous avons abandonnÃ© l'idÃ©e pour permettre au public d'arriver Ã  un Ã©tat de transe, en dansant sans discontinuer (ou presque !)
