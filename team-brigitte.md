@@ -6,7 +6,7 @@ SVP compléter chacune des informations demandées, c'est pour la postérité!
 
 ## Projet Préhistopiano
 
-**Équipe **
+**Équipe**
 
 *   Inscrire également le twitter ou autre
 *   Contenu : [Clémence Moullé Prévost](/ep/profile/x7YAopfJDCi)
@@ -39,11 +39,11 @@ SVP compléter chacune des informations demandées, c'est pour la postérité!
 
 *   Publiez votre résumé sur twitter  et intégrer le lien du Twit ici.
 
-*   **1// TWEET **#**modesérieux **
+* **1// TWEET**#**modesérieux**
 
  Le Préhistopiano est un dispositif intéractif et sensoriel. Un voyage musical au temps de la Préhistoire dont vous êtes le compositeur.
 
-*   **2// TWEET **#**modefun **:
+* **2// TWEET**#**modefun**:
 
 Mais c'est quoi ? Ben, un PréhistoPiano ! Mais ça sert à quoi ? Bah, à faire du Jean-Michel Jarr dans la Préhistoire !
 
@@ -65,7 +65,7 @@ Mais c'est quoi ? Ben, un PréhistoPiano ! Mais ça sert à quoi ? Bah, à faire
 </li>
 <li>Un voyage musical au temps de la Préhistoire dont vous êtes le compositeur. </li></undefined>
 
-<u> **Articles de presse :</u>**
+**Articles de presse :**
 
  --> Ouest France  : 
 
@@ -185,7 +185,7 @@ Mais c'est quoi ? Ben, un PréhistoPiano ! Mais ça sert à quoi ? Bah, à faire
 
 ![](https://hackpad-attachments.s3.amazonaws.com/museomixouest.hackpad.com_osYPekaEB4Y_p.512150_1447507892439_le-synthe-lumineux-de-jean-michel-jarre-en-vente-sur-ebay_0.jpg)
 
-**--> L'exposition "Les Mécaniques Poétiques" d'EZ3kiel aux Champs Libres : **
+**--> L'exposition "Les Mécaniques Poétiques" d'EZ3kiel aux Champs Libres :**
 
 ![](https://hackpad-attachments.s3.amazonaws.com/museomixouest.hackpad.com_osYPekaEB4Y_p.512150_1447508350599_ez3kiel-4.JPG)
 
@@ -197,11 +197,11 @@ Mais c'est quoi ? Ben, un PréhistoPiano ! Mais ça sert à quoi ? Bah, à faire
 
 ![](https://hackpad-attachments.s3.amazonaws.com/museomixouest.hackpad.com_osYPekaEB4Y_p.512150_1447580142889_table-orientation-peira-cava.jpg)
 
-**--> Le poste de pilotage de Star Treck : **
+**--> Le poste de pilotage de Star Treck :**
 
 ![](https://hackpad-attachments.s3.amazonaws.com/museomixouest.hackpad.com_osYPekaEB4Y_p.512150_1447580177403_USS_Enterprise_alternate_reality_bridge-1024x426.jpg)
 
-**--> L'archéologie expérimentale : **
+**--> L'archéologie expérimentale :**
 
 ![](https://hackpad-attachments.s3.amazonaws.com/museomixouest.hackpad.com_osYPekaEB4Y_p.512150_1447509041397_img-6-small580.jpg)
 
@@ -241,7 +241,7 @@ L'équipe s'est rassemblée autour de l'espace Préhistoire et de la volonté d'
 
 **Scénario utilisateur**
 
-1 - Le visiteur commence la visite du musée, voit les outils préhistoriques dans les vitrines, et a envie d'y **toucher** !
+1 - Le visiteur commence la visite du musée, voit les outils préhistoriques dans les vitrines, et a envie d'y**toucher** !
 
 2 - Il arrive près du Préhistopiano, dispositif intégré dans le parcours disposition. 
 
@@ -315,11 +315,11 @@ Un musée est une institution, avec des règles à respecter: ne pas toucher, ne
 
 Aujourd'hui, nous vous proposons de transgresser certaines de ces règles : vous êtes invité à toucher, et à faire du bruit !
 
-Avec le<u> Préhistopiano</u>, **appropriez-vous les objets de la Préhistoire**, manipulez les millénaires, remixez l'Histoire de vos ancêtres.
+Avec le<u> Préhistopiano</u>,**appropriez-vous les objets de la Préhistoire**, manipulez les millénaires, remixez l'Histoire de vos ancêtres.
 
-**Touchez-les** : **à chaque outil, correspond une sonorité.** Ces sons, ce sont ceux du travail des pierres, de la taille, des outillages en action, des matières en répercussion.  
+**Touchez-les** :**à chaque outil, correspond une sonorité.** Ces sons, ce sont ceux du travail des pierres, de la taille, des outillages en action, des matières en répercussion.  
 
-Dialoguez avec des objets, de la Paléolithique à l'Age de Bronze, et **voyagez dans le temps **en créant votre propre bande sonore de la Préhistoire !
+Dialoguez avec des objets, de la Paléolithique à l'Age de Bronze, et**voyagez dans le temps**en créant votre propre bande sonore de la Préhistoire !
 
 ## CAHIER DE LABORATOIRE
 <undefined><li>**Vous avez changé d'avis en cours de route, incrivez pourquoi**</li></undefined>
@@ -328,14 +328,14 @@ Dialoguez avec des objets, de la Paléolithique à l'Age de Bronze, et **voyagez
 
 <u>Formation de l'équipe et contours du projets</u>
 
-L'équipe s'est constituée autour du panneau Préhistoire. Les post-it collés lors de la visite de l'espace ont engagé la réflexion sur le besoin de **recréer le lien entre le visiteur et les objets présentés**, notamment au niveau des matières, de l'affect, de l'humain. En quelques minutes, nous avons donc engagé le désir de créer un **projet immersif**, d'ajouter une dimension **sensible et humaine**, d'**apprendre** par les sens et l'imagination.
+L'équipe s'est constituée autour du panneau Préhistoire. Les post-it collés lors de la visite de l'espace ont engagé la réflexion sur le besoin de**recréer le lien entre le visiteur et les objets présentés**, notamment au niveau des matières, de l'affect, de l'humain. En quelques minutes, nous avons donc engagé le désir de créer un**projet immersif**, d'ajouter une dimension**sensible et humaine**, d'**apprendre** par les sens et l'imagination.
 
 En rassemblant, lisant et organisant les post-it, quatre axes, quatre catégories se sont dégagés:
 
-*   -** sensoriel : **entendre et surtout toucher
-*   - **humain :**  empreinte, découverte
-*   - **interaction : **donner vie, entrer, être dedans
-*   - **récit**
+*   -** sensoriel :**entendre et surtout toucher
+*   -**humain :**  empreinte, découverte
+*   -**interaction :**donner vie, entrer, être dedans
+*   -**récit**
 **   Les publics ont donc la volonté de se rapprocher des objets présentés, de toucher les pierres, les outils, voir l'intérieur des maquettes et les re-contextualiser, interagir avec une époque lointaine, la revivre.
 
 **_L'équipe :_**
@@ -346,9 +346,9 @@ Notre nom a été choisi en honneur à la statuette qui boucle le parcours Préh
 
 Suite à la visite de la médiatrice et à son coup du cSur autour de la maquette du Tumulus de Barnenez, nous avons souhaité valorisé cette architecture miniature qui représente certes l'original, mais de manière décontextualisée. La maquette du Tumulus est hors de son environnement initial, enfermé dans une vitrine qui ne lui rend pas justice. Partant des publics, nous avons voulu les amener à appréhender le Tumulus, en interagissant avec lui. Nous avons alors pensé à faire élaborer une maquette du bâtiment sur le jeu vidéo Minecraft, invitant le public à reconstruire le Tumulus, puis à s'y promener, à se l'approprier. Le jeu vidéo a un succès incontestable et multi-générationel. L'utilisation de ces légos numériques dans un contexte muséal permet de mettre en valeur un objet qui tient particulièrement à cSur à l'équipe du musée, de le faire vivre en écho avec les gestes et les actes des publics/utilisateurs.
 
-Ce **minecraft archéologique** a été imaginé comme un point d'un parcours ludique et immersif au sein de l'espace Préhistoire.
+Ce**minecraft archéologique** a été imaginé comme un point d'un parcours ludique et immersif au sein de l'espace Préhistoire.
 
-Nous avons également pensé à utiliser **la figure de Brigitte**, statue qui est devenue notre totem et qui a symbolisé notre équipe. L'idée était de déshabiller ou ré-habiller Brigitte mais n'a pas été retenue par la suite.
+Nous avons également pensé à utiliser**la figure de Brigitte**, statue qui est devenue notre totem et qui a symbolisé notre équipe. L'idée était de déshabiller ou ré-habiller Brigitte mais n'a pas été retenue par la suite.
 
 Les objets et outils de cet espace muséal sont nombreux, et enclavés dans des vitrines. Seul le regard peut y accéder. Ainsi nous avons souhaité faire travailler les autres sens des visiteurs et non seulement la vue, car il y a énormément à voir pendant le parcours et tout au long du musée. Il s'agit de créer des liens de différentes manières entre les objets, témoins d'une époque, et les visiteurs, aux profils variés. Nous avons absolument souhaité donner la possibilité aux publics de pouvoir toucher ces outils. Une manipulation des objets, une appréhension ou un rapide apprentissage des gestes oubliés de la Préhistoire incluait un événement ponctuel avec les gens, ainsi nous nous sommes basés sur une installation pérenne et accessible, dans laquelle les visiteurs pourraient toucher les objets. Cette dimension du toucher revêt une aura exceptionnelle au sein d'un contexte muséal où les objets sont protégés dans des vitrines, et un aspect presque mystique de reconquête des objets d'un passé bien lointain.Au delà du toucher, il s'agit donc de faire vivre une expérience, et de développer un imaginaire autour des gestes. 
 
@@ -387,9 +387,9 @@ Propositions de nom de projet :
 
 Après vote aux gommettes, c'est finalement** Préhistopiano,** le nom initial, qui continue de donner son nom illustratif au projet.
 
-**Heure historique **:** 01h34**
+**Heure historique**:** 01h34**
 
-Premier essai de la pierre tactile et sonore : **ça marche !!!!**! (plus ou moins mais presque)
+Premier essai de la pierre tactile et sonore :**ça marche !!!!**! (plus ou moins mais presque)
 
 *   Jour 3
 
