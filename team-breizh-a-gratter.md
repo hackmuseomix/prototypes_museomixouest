@@ -1,63 +1,60 @@
-# Team Breiz(h) à gratter - n°5
+# Team Breiz(h) Ã  gratter - nÂ°5
 
-<ul class="comment"><li>SVP compléter chacune des informations demandées, c'est pour la postérité!</li></ul class="comment">
+<ul class="comment"><li>SVP complÃ©ter chacune des informations demandÃ©es, c'est pour la postÃ©ritÃ©!</li></ul class="comment">
 
-## Breiz(h) à  gratter : un espace de débat sans pincettes
+## Breiz(h) Ã   gratter : un espace de dÃ©bat sans pincettes
 
 Braise de comptoir
 
-*   Inscrire également le twitter ou autre
-
+*   Inscrire Ã©galement le twitter ou autre
 *   Contenu : Nicolas Poulain - @nicoCG70 aka tounoki
-*   Médiation / Design / UX : Rosine Bernez
+*   MÃ©diation / Design / UX : Rosine Bernez
 *   Communication : Adrien Le Beller.
 *   Graphisme : Natasha Stocchi
-*   Développement : Jerome Garnier
+*   DÃ©veloppement : Jerome Garnier
 *   Fabrication : Alice Fernandez
 
 **Support**
 
-*   INSCRIRE LE NOM DES PERSONNES QUI VOUS ONT AIDÉ
-
-*   Facilitation : Angélique Robert
-*   Ingénieux : Matthieu, les médiatos Paskal, Karine & Gwen
+*   INSCRIRE LE NOM DES PERSONNES QUI VOUS ONT AIDÃ‰
+*   Facilitation : AngÃ©lique Robert
+*   IngÃ©nieux : Matthieu, les mÃ©diatos Paskal, Karine & Gwen
 
 ## Description
 
-**Résumé en 140 caractères**
+**RÃ©sumÃ© en 140 caractÃ¨res**
 
-*   Faire naitre et rendre visible le débat sur des sujets contemporains liés à la Bretagne de manière contributive, ludique et évolutive... Et sans pincette !
-*
+*   Faire naitre et rendre visible le dÃ©bat sur des sujets contemporains liÃ©s Ã  la Bretagne de maniÃ¨re contributive, ludique et Ã©volutive... Et sans pincette !
 
-**Vidéo finale**
+**VidÃ©o finale**
 
-[](https://youtu.be/9DvDbG-zw40)https://y[outu.be/9DvDbG-zw40](https://y)
+https://y[outu.be/9DvDbG-zw40
 
-[](https://youtu.be/t936EFmcAtg)https://youtu.be/t936EFmcAtg
+https://youtu.be/t936EFmcAtg
 
 **Description**
 
-A travers une scénographie provocante évolutive et contributive.
+A travers une scÃ©nographie provocante Ã©volutive et contributive.
 
-Le projet se matérialise à travers un pupitre de débat, des interventions sur les vitrines et la projections de caricatures pour entrer dans la thématique du débat.
+Le projet se matÃ©rialise Ã  travers un pupitre de dÃ©bat, des interventions sur les vitrines et la projections de caricatures pour entrer dans la thÃ©matique du dÃ©bat.
 
-Le visiteur est interpellé, on lui pose une question, il répond par l'affirmative ou la négative, apparait alors un commentaire opposé d'un autre visiteur. Celui-ci est alors invité à préciser son propos et nourrira alors le fil de débat.
+Le visiteur est interpellÃ©, on lui pose une question, il rÃ©pond par l'affirmative ou la nÃ©gative, apparait alors un commentaire opposÃ© d'un autre visiteur. Celui-ci est alors invitÃ© Ã  prÃ©ciser son propos et nourrira alors le fil de dÃ©bat.
 
 ** Photos**
 
-**Salle(s) / objet ou espaces remixés **
+**Salle(s) / objet ou espaces remixÃ©s **
 
-Salle de La Bretagne contemporaine qui traite des thématiques suivantes : l'agriculture, l'industrie, la culture bretonne, la pêche...
+Salle de La Bretagne contemporaine qui traite des thÃ©matiques suivantes : l'agriculture, l'industrie, la culture bretonne, la pÃªche...
 
-Intervention scénographique sur un des 7 totems et sur l'ensemble des vitrines de la salle. Pour des raisons de temps, nous n'avons développé qu'un seul thèmes sur les 7.
+Intervention scÃ©nographique sur un des 7 totems et sur l'ensemble des vitrines de la salle. Pour des raisons de temps, nous n'avons dÃ©veloppÃ© qu'un seul thÃ¨mes sur les 7.
 
 **Liens externes (si applicable) **
 
-*   Photos, vidéos, Site Internet, etc. 
+*   Photos, vidÃ©os, Site Internet, etc. 
 
 **Sources d'inspiration**
 
-Les politiques publiques inconscientes des années 1950-1960.
+Les politiques publiques inconscientes des annÃ©es 1950-1960.
 
 Les wombats 
 
@@ -67,7 +64,7 @@ Le manque de sommeil
 
 *   Note: Cette licence est obligatoire pour tous les prototypes Museomix (voir charte)
 
-Ce prototype est sous licence Creative Commons - Paternité - Partage à l'identique 3.0 France (CC-BY-SA)
+Ce prototype est sous licence Creative Commons - PaternitÃ© - Partage Ã  l'identique 3.0 France (CC-BY-SA)
 
 Et Copyleft !
 
@@ -75,49 +72,49 @@ Et Copyleft !
 
 ## CONTENU
 
-**Intention / Contexte / Volonté de départ**
+**Intention / Contexte / VolontÃ© de dÃ©part**
 
-La salle de la Bretagne contemporaine, pour léquipe, correspondait a une image lissée de la Bretagne, on y glorifie essentiellement les politiques publiques de ces 50 dernières années. Pour nous, ce sujet contemporain, ne peut se traduire par un seul point de vue dit objectif...
+La salle de la Bretagne contemporaine, pour lÃ©quipe, correspondait a une image lissÃ©e de la Bretagne, on y glorifie essentiellement les politiques publiques de ces 50 derniÃ¨res annÃ©es. Pour nous, ce sujet contemporain, ne peut se traduire par un seul point de vue dit objectif...
 
-Ainsi, lidée de départ  est de parler des choses qui fâchent pour remettre en question les éléments des vitrines. 
+Ainsi, lidÃ©e de dÃ©part  est de parler des choses qui fÃ¢chent pour remettre en question les Ã©lÃ©ments des vitrines. 
 
-L'objectif est de rendre visible un débat et les différents points de vue sur les sujets traités par la muséographie.
+L'objectif est de rendre visible un dÃ©bat et les diffÃ©rents points de vue sur les sujets traitÃ©s par la musÃ©ographie.
 
 **Raisons du choix de l'objet ou de l'espace**
 
-Remettre en cause le discours sacro-saint de l'institution muséale, favoriser et militer pour la multiplicité des points de vue sur un sujet.
+Remettre en cause le discours sacro-saint de l'institution musÃ©ale, favoriser et militer pour la multiplicitÃ© des points de vue sur un sujet.
 
 **Sources documentaires**
 
-Les différents bretons de léquipe
+Les diffÃ©rents bretons de lÃ©quipe
 
-Journaux dactualités et presse locale
+Journaux dactualitÃ©s et presse locale
 
-Sites internet et groupes de lobbying  (syndicat Viande, France nature environnement, association écologistes, site des Bonnets rouges)
+Sites internet et groupes de lobbying  (syndicat Viande, France nature environnement, association Ã©cologistes, site des Bonnets rouges)
 
 Caricatures
 
-Catalogue de l'exposition Cochon à l'écomusée de Rennes
+Catalogue de l'exposition Cochon Ã  l'Ã©comusÃ©e de Rennes
 
 ## UTILISATEUR
 
-**Scénario utilisateur**
+**ScÃ©nario utilisateur**
 
 INTERPELER
 
-Le visiteur arrive dans la salle sur la Bretagne contemporaine, de par une scénographie de type agressive ( vitrine taguée, cartel changé, signalétique au sol, projection de vidéos, propos qui invite a réagir&).
+Le visiteur arrive dans la salle sur la Bretagne contemporaine, de par une scÃ©nographie de type agressive ( vitrine taguÃ©e, cartel changÃ©, signalÃ©tique au sol, projection de vidÃ©os, propos qui invite a rÃ©agir&).
 
-Après la lecture de la scénographie et de propos on ne peut plus gênant (lagriculture bretonne pollue et produit de nombreux cancers ;).
+AprÃ¨s la lecture de la scÃ©nographie et de propos on ne peut plus gÃªnant (lagriculture bretonne pollue et produit de nombreux cancers ;).
 
 CONTRIBUER
 
-Le visiteur est alors interrogé par la borne située en front du Totem de lexposition initiale, celle-ci lui demande alors de donner son avis sur un sujet : Pour ou contre les OGM ?
+Le visiteur est alors interrogÃ© par la borne situÃ©e en front du Totem de lexposition initiale, celle-ci lui demande alors de donner son avis sur un sujet : Pour ou contre les OGM ?
 
- Notre ami muséophile, se positionne alors sur le sujet ( OUI/NON) Et paf ! la borne lui mentionne un avis contraire.
+ Notre ami musÃ©ophile, se positionne alors sur le sujet ( OUI/NON) Et paf ! la borne lui mentionne un avis contraire.
 
 RESTITUER
 
-Le visiteur a la chance de pouvoir répondre ( et oui !). Il inscrit alors sous la forme dun texte ou dune vidéo sa réponse au contre-argument. Sa contribution nourrit alors le débat, et servira alors pour lutilisateur suivant qui ne suivra pas son avis. 
+Le visiteur a la chance de pouvoir rÃ©pondre ( et oui !). Il inscrit alors sous la forme dun texte ou dune vidÃ©o sa rÃ©ponse au contre-argument. Sa contribution nourrit alors le dÃ©bat, et servira alors pour lutilisateur suivant qui ne suivra pas son avis. 
 
 Le visiteur aura pu avoir au moins 3 points de vue sur le sujet et donner le sien.
 
@@ -125,17 +122,17 @@ Le visiteur aura pu avoir au moins 3 points de vue sur le sujet et donner le sie
 
 Simple : 
 
-Visite de la salle barbouillée.
+Visite de la salle barbouillÃ©e.
 
-Répondre à l'interpellation de la tablette.
+RÃ©pondre Ã  l'interpellation de la tablette.
 
 Laisser un commentaire.
 
-Résultat : Le visiteur aura pu avoir au moins 3 points de vue sur le sujet et donner le sien.
+RÃ©sultat : Le visiteur aura pu avoir au moins 3 points de vue sur le sujet et donner le sien.
 
 ## FONCTIONNEMENT ET FABRICATION
 
-**Machines ou technologie(s) utilisées**
+**Machines ou technologie(s) utilisÃ©es**
 
 Rapsberry Pi (x2)
 
@@ -145,17 +142,17 @@ Html/PHP/MySqL
 
 **Fabrication**
 
-Fabrication d'un pupitre dont l'inspiration est directement orientée vers les bornes d'arcades. On a rajouté des boutons pour garder le cote ludique.
+Fabrication d'un pupitre dont l'inspiration est directement orientÃ©e vers les bornes d'arcades. On a rajoutÃ© des boutons pour garder le cote ludique.
 
-**Liste des matériaux, outillages**
+**Liste des matÃ©riaux, outillages**
 
 *   Des feutres pour graffer !
 *   Planches de bois
 *   De la bonne colle
-*   De la volonté car le contexte du weekend ne fut pas des plus tranquilles....
+*   De la volontÃ© car le contexte du weekend ne fut pas des plus tranquilles....
 *   VP
 
-**Plan, schéma électriques, photos**
+**Plan, schÃ©ma Ã©lectriques, photos**
 
 ## FICHIERS ET CODES SOURCES
 
@@ -165,11 +162,12 @@ Code source appli web (php/mysql)
 <ul class="comment"><li>
 </li></ul class="comment">
 
-## MÉDIATION
+## MÃ‰DIATION
 
-**Comment présenter le prototype**
+**Comment prÃ©senter le prototype**
 
-L'attention du visiteur doit être portée avant tout sur les propos et affirmations provocantes de la scénographie l'objectif est alors de mettre en garde l'utilisateur sur les propos qui lui seront transmis, et ce, même si c'est un musée !
+L'attention du visiteur doit Ãªtre portÃ©e avant tout sur les propos et affirmations provocantes de la scÃ©nographie l'objectif est alors de mettre en garde l'utilisateur sur les propos qui lui seront transmis, et ce, mÃªme si c'est un musÃ©e !
 
 ## CAHIER DE LABORATOIRE
-<undefined><li>**Vous avez changé d'avis en cours de route, incrivez pourquoi**</li></undefined>
+
+Vous avez changÃ© d'avis en cours de route, incrivez pourquoi
