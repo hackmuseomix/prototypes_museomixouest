@@ -2,19 +2,18 @@
 
 ![](https://hackpad-attachments.s3.amazonaws.com/museomixouest.hackpad.com_osYPekaEB4Y_p.507668_1447541854946_LOGOTeam2.jpg)
 
-SVP compléter chacune des informations demandées, c'est pour la postérité!
+SVP complÃ©ter chacune des informations demandÃ©es, c'est pour la postÃ©ritÃ©!
 
-## Projet Préhistopiano
+## Projet PrÃ©histopiano
 
-**Équipe **[#teambrigitte](/ep/search/search?q=%23teambrigitte)
+**Ã‰quipe **
 
-*   Inscrire également le twitter ou autre
-
-*   Contenu : [Clémence Moullé Prévost](/ep/profile/x7YAopfJDCi)
-*   Communication : Laëtitia Toulout
+*   Inscrire Ã©galement le twitter ou autre
+*   Contenu : [ClÃ©mence MoullÃ© PrÃ©vost](/ep/profile/x7YAopfJDCi)
+*   Communication : LaÃ«titia Toulout
 *   Communication : [Maxime Goguet](/ep/profile/C3JhkJyihHV)
-*   Graphisme : Cécile Vibert
-*   Développement : Gilles Gonon
+*   Graphisme : CÃ©cile Vibert
+*   DÃ©veloppement : Gilles Gonon
 *   Fabrication : Stan Bah Chuzeville
 
 ![](https://hackpad-attachments.s3.amazonaws.com/museomixouest.hackpad.com_osYPekaEB4Y_p.512150_1447513696165_IMG_1958.jpg)
@@ -29,54 +28,50 @@ SVP compléter chacune des informations demandées, c'est pour la postérité!
 
 **Support**
 
-*   INSCRIRE LE NOM DES PERSONNES QUI VOUS ONT AIDÉ
-
-*   Facilitation : Céline Soret
-*   Ingénieux : Tom Gougeron (sound design) + 
+*   INSCRIRE LE NOM DES PERSONNES QUI VOUS ONT AIDÃ‰
+*   Facilitation : CÃ©line Soret
+*   IngÃ©nieux : Tom Gougeron (sound design) + 
 *   LabFab : Thomas et Thibault
 
 ## Description
 
-**Résumé en 140 caractères**
+**RÃ©sumÃ© en 140 caractÃ¨res**
 
-*   Publiez votre résumé sur twitter  et intégrer le lien du Twit ici.
+*   Publiez votre rÃ©sumÃ© sur twitter  et intÃ©grer le lien du Twit ici.
 
-*   **1// TWEET **#**modesérieux **:
-*
+*   **1// TWEET **#**modesÃ©rieux **
 
- Le Préhistopiano est un dispositif intéractif et sensoriel. Un voyage musical au temps de la Préhistoire dont vous êtes le compositeur.
+ Le PrÃ©histopiano est un dispositif intÃ©ractif et sensoriel. Un voyage musical au temps de la PrÃ©histoire dont vous Ãªtes le compositeur.
 
 *   **2// TWEET **#**modefun **:
-*
 
-Mais c'est quoi ? Ben, un PréhistoPiano ! Mais ça sert à quoi ? Bah, à faire du Jean-Michel Jarr dans la Préhistoire !
+Mais c'est quoi ? Ben, un PrÃ©histoPiano ! Mais Ã§a sert Ã  quoi ? Bah, Ã  faire du Jean-Michel Jarr dans la PrÃ©histoire !
 
-**Vidéo finale**
-
-*
+**VidÃ©o finale**
 
 **Description**
-<undefined><li>Le Préhistopiano est un dispositif intéractif et sensoriel pour toucher et écouter la Préhistoire. </li>
+
+<undefined><li>Le PrÃ©histopiano est un dispositif intÃ©ractif et sensoriel pour toucher et Ã©couter la PrÃ©histoire. </li>
 <li>
 </li>
-<li>Il permet de faire connaissance avec les outils de la Préhistoire par lexpérimentation sensorielle et lémotion. </li>
+<li>Il permet de faire connaissance avec les outils de la PrÃ©histoire par lexpÃ©rimentation sensorielle et lÃ©motion. </li>
 <li>
 </li>
-<li>Nous présentons ici u**ne matéria**uthèque sous la forme dun clavier. Linteraction tactile avec les objets présentés (grattoir, burin, haches, etc.) enclenche la diffusion de contenus sonores liés à lutilisation de lobjet, aux gestes et aux techniques.</li>
+<li>Nous prÃ©sentons ici u**ne matÃ©ria**uthÃ¨que sous la forme dun clavier. Linteraction tactile avec les objets prÃ©sentÃ©s (grattoir, burin, haches, etc.) enclenche la diffusion de contenus sonores liÃ©s Ã  lutilisation de lobjet, aux gestes et aux techniques.</li>
 <li>
 </li>
-<li>Les objets sont classés chronologiquement pour couvrir les périodes de la Préhistoire : depuis le Paléolithique jusquà lÂge du Fer. </li>
+<li>Les objets sont classÃ©s chronologiquement pour couvrir les pÃ©riodes de la PrÃ©histoire : depuis le PalÃ©olithique jusquÃ  lÃ‚ge du Fer. </li>
 <li>
 </li>
-<li>Un voyage musical au temps de la Préhistoire dont vous êtes le compositeur. </li></undefined>
+<li>Un voyage musical au temps de la PrÃ©histoire dont vous Ãªtes le compositeur. </li></undefined>
 
 <u> **Articles de presse :</u>**
 
  --> Ouest France  : 
 
-- [](http://www.ouest-france.fr/bretagne/rennes-35000/trois-jours-pour-imaginer-le-musee-de-demain-3844233)http://www.ouest-france.fr/bretagne/rennes-35000/trois-jours-pour-imaginer-le-musee-de-demain-3844233
+[](http://www.ouest-france.fr/bretagne/rennes-35000/trois-jours-pour-imaginer-le-musee-de-demain-3844233)http://www.ouest-france.fr/bretagne/rennes-35000/trois-jours-pour-imaginer-le-musee-de-demain-3844233
 
-- [](http://www.ouest-france.fr/bretagne/rennes-35000/museomix-fait-bouger-le-musee-avec-son-temps-3847700)http://www.ouest-france.fr/bretagne/rennes-35000/museomix-fait-bouger-le-musee-avec-son-temps-3847700
+[](http://www.ouest-france.fr/bretagne/rennes-35000/museomix-fait-bouger-le-musee-avec-son-temps-3847700)http://www.ouest-france.fr/bretagne/rennes-35000/museomix-fait-bouger-le-musee-avec-son-temps-3847700
 
 --> Unidivers.fr
 
@@ -84,17 +79,17 @@ Mais c'est quoi ? Ben, un PréhistoPiano ! Mais ça sert à quoi ? Bah, à faire du 
 
 ** Photos**
 
- ![](https://hackpad-attachments.s3.amazonaws.com/museomixouest.hackpad.com_osYPekaEB4Y_p.512150_1447509949593_CTsZPalWoAAoS1q.jpg-large.jpeg)
+![](https://hackpad-attachments.s3.amazonaws.com/museomixouest.hackpad.com_osYPekaEB4Y_p.512150_1447509949593_CTsZPalWoAAoS1q.jpg-large.jpeg)
 
 ![](https://hackpad-attachments.s3.amazonaws.com/museomixouest.hackpad.com_osYPekaEB4Y_p.512150_1447509789372_IMG_1951.jpg)
 
- ![](https://hackpad-attachments.s3.amazonaws.com/museomixouest.hackpad.com_osYPekaEB4Y_p.512150_1447509724696_IMG_1953.jpg)
+![](https://hackpad-attachments.s3.amazonaws.com/museomixouest.hackpad.com_osYPekaEB4Y_p.512150_1447509724696_IMG_1953.jpg)
 
- ![](https://hackpad-attachments.s3.amazonaws.com/museomixouest.hackpad.com_osYPekaEB4Y_p.512150_1447509859610_IMG_1948.jpg)
+![](https://hackpad-attachments.s3.amazonaws.com/museomixouest.hackpad.com_osYPekaEB4Y_p.512150_1447509859610_IMG_1948.jpg)
 
-  ![](https://hackpad-attachments.s3.amazonaws.com/museomixouest.hackpad.com_osYPekaEB4Y_p.512150_1447512624249__MG_3054.JPG)
+![](https://hackpad-attachments.s3.amazonaws.com/museomixouest.hackpad.com_osYPekaEB4Y_p.512150_1447512624249__MG_3054.JPG)
 
- ![](https://hackpad-attachments.s3.amazonaws.com/museomixouest.hackpad.com_osYPekaEB4Y_p.512150_1447512647282__MG_3052.JPG)
+![](https://hackpad-attachments.s3.amazonaws.com/museomixouest.hackpad.com_osYPekaEB4Y_p.512150_1447512647282__MG_3052.JPG)
 
 ![](https://hackpad-attachments.s3.amazonaws.com/museomixouest.hackpad.com_osYPekaEB4Y_p.512150_1447509574241_IMG_20151113_180037.jpg)
 
@@ -104,7 +99,7 @@ Mais c'est quoi ? Ben, un PréhistoPiano ! Mais ça sert à quoi ? Bah, à faire du 
 
 ![](https://hackpad-attachments.s3.amazonaws.com/museomixouest.hackpad.com_osYPekaEB4Y_p.512355_1447510458114_IMAG4314.jpg)
 
-![](https://hackpad-attachments.s3.amazonaws.com/museomixouest.hackpad.com_osYPekaEB4Y_p.512355_1447511869292_sélections pierres.jpg)![](https://hackpad-attachments.s3.amazonaws.com/museomixouest.hackpad.com_osYPekaEB4Y_p.512150_1447509698554_IMG_1954.jpg)
+![](https://hackpad-attachments.s3.amazonaws.com/museomixouest.hackpad.com_osYPekaEB4Y_p.512355_1447511869292_sÃ©lections pierres.jpg)![](https://hackpad-attachments.s3.amazonaws.com/museomixouest.hackpad.com_osYPekaEB4Y_p.512150_1447509698554_IMG_1954.jpg)
 
 ![](https://hackpad-attachments.s3.amazonaws.com/museomixouest.hackpad.com_osYPekaEB4Y_p.512150_1447513816161_CTw8u9dWEAAN-as.jpg-large.jpeg)
 
@@ -156,7 +151,7 @@ Mais c'est quoi ? Ben, un PréhistoPiano ! Mais ça sert à quoi ? Bah, à faire du 
 
 ![](https://hackpad-attachments.s3.amazonaws.com/museomixouest.hackpad.com_osYPekaEB4Y_p.512150_1447603707028_IMG_1993.jpg)
 
-**Salle(s) / objet ou espaces remixés **
+**Salle(s) / objet ou espaces remixÃ©s**
 
 ![](https://hackpad-attachments.s3.amazonaws.com/museomixouest.hackpad.com_osYPekaEB4Y_p.512355_1447513785715_IMAG4302.jpg)
 
@@ -184,25 +179,13 @@ Mais c'est quoi ? Ben, un PréhistoPiano ! Mais ça sert à quoi ? Bah, à faire du 
 
 ![](https://hackpad-attachments.s3.amazonaws.com/museomixouest.hackpad.com_osYPekaEB4Y_p.512355_1447585810107_CT1-PuQXAAAHMwF.jpg:large.jpeg)![](https://hackpad-attachments.s3.amazonaws.com/museomixouest.hackpad.com_osYPekaEB4Y_p.512355_1447585881278_CT2PPbEWEAA-CPP.jpg)
 
-**Liens externes (si applicable) **
-
-*   Photos, vidéos, Site Internet, etc. 
-
-**--> Vidéo de présentation du projet J1 :**
-
-*
-
-**--> Vidéo de présentation du projet J2 :** 
-
-*
-
 **Sources d'inspiration**
 
-**--> Les (topisssimes !) synthés lumineux de Jean-Mich-Mich Jarr :**
+**--> Les (topisssimes !) synthÃ©s lumineux de Jean-Mich-Mich Jarr :**
 
 ![](https://hackpad-attachments.s3.amazonaws.com/museomixouest.hackpad.com_osYPekaEB4Y_p.512150_1447507892439_le-synthe-lumineux-de-jean-michel-jarre-en-vente-sur-ebay_0.jpg)
 
-**--> L'exposition "Les Mécaniques Poétiques" d'EZ3kiel aux Champs Libres : **
+**--> L'exposition "Les MÃ©caniques PoÃ©tiques" d'EZ3kiel aux Champs Libres : **
 
 ![](https://hackpad-attachments.s3.amazonaws.com/museomixouest.hackpad.com_osYPekaEB4Y_p.512150_1447508350599_ez3kiel-4.JPG)
 
@@ -218,15 +201,15 @@ Mais c'est quoi ? Ben, un PréhistoPiano ! Mais ça sert à quoi ? Bah, à faire du 
 
 ![](https://hackpad-attachments.s3.amazonaws.com/museomixouest.hackpad.com_osYPekaEB4Y_p.512150_1447580177403_USS_Enterprise_alternate_reality_bridge-1024x426.jpg)
 
-**--> L'archéologie expérimentale : **
+**--> L'archÃ©ologie expÃ©rimentale : **
 
 ![](https://hackpad-attachments.s3.amazonaws.com/museomixouest.hackpad.com_osYPekaEB4Y_p.512150_1447509041397_img-6-small580.jpg)
 
-**--> Les matériauthèques :**
+**--> Les matÃ©riauthÃ¨ques :**
 
- ![](https://hackpad-attachments.s3.amazonaws.com/museomixouest.hackpad.com_osYPekaEB4Y_p.512150_1447586909526_page_image_23_thumbnail_fr.jpg)
+![](https://hackpad-attachments.s3.amazonaws.com/museomixouest.hackpad.com_osYPekaEB4Y_p.512150_1447586909526_page_image_23_thumbnail_fr.jpg)
 
-**--> Les massages à la pierre chauffante :**
+**--> Les massages Ã  la pierre chauffante :**
 
 ![](https://hackpad-attachments.s3.amazonaws.com/museomixouest.hackpad.com_osYPekaEB4Y_p.512150_1447582237631_Spa-Anise_Hot-Stone-Massage_iStock.jpg)
 
@@ -234,41 +217,41 @@ Mais c'est quoi ? Ben, un PréhistoPiano ! Mais ça sert à quoi ? Bah, à faire du 
 
 *   Note: Cette licence est obligatoire pour tous les prototypes Museomix (voir charte)
 
-Ce prototype est sous licence Creative Commons - Paternité - Partage à l'identique 3.0 France (CC-BY-SA)
+Ce prototype est sous licence Creative Commons - PaternitÃ© - Partage Ã  l'identique 3.0 France (CC-BY-SA)
 
 ![](https://hackpad-attachments.s3.amazonaws.com/museomixouest.hackpad.com_gTmqkySj1md_p.510268_1447266871674_Cc-by-sa_(1).svg.png)
 
 ## CONTENU
 
-**Intention / Contexte / Volonté de départ**
+**Intention / Contexte / VolontÃ© de dÃ©part**
 
-L'intention de départ était de créer une immersion sensorielle et émotive pour le visiteur. Impliquer le corps pour le connecter aux objets et à leur utilisation passée. Développer une approche sensible qui laisse une place à l'imaginaire. Dans le contexte de l'espace Préhistorique du Musée de Bretagne, ce projet se veut être une synthèse de matières et de sons du Paléolithique à lÂge du Fer.
+L'intention de dÃ©part Ã©tait de crÃ©er une immersion sensorielle et Ã©motive pour le visiteur. Impliquer le corps pour le connecter aux objets et Ã  leur utilisation passÃ©e. DÃ©velopper une approche sensible qui laisse une place Ã  l'imaginaire. Dans le contexte de l'espace PrÃ©historique du MusÃ©e de Bretagne, ce projet se veut Ãªtre une synthÃ¨se de matiÃ¨res et de sons du PalÃ©olithique Ã  lÃ‚ge du Fer.
 
 **Choix de l'objet ou de l'espace**
 
-L'équipe s'est rassemblée autour de l'espace Préhistoire et de la volonté d'en faire un projet qui rapproche les visiteurs des objets présentés, affirmant le potentiel émotif, sensible et humain de ces collections.
+L'Ã©quipe s'est rassemblÃ©e autour de l'espace PrÃ©histoire et de la volontÃ© d'en faire un projet qui rapproche les visiteurs des objets prÃ©sentÃ©s, affirmant le potentiel Ã©motif, sensible et humain de ces collections.
 
 **Sources documentaires**
 
-*   Documents de l'animation "Préhistoire de pierre" prêté par le Musée.
-*   Site internet hominidés.com
-*   Documents de l'INRAP sur le Paléolithique, le Mésolithique, le Néolithique, l'Âge du Bronze et l'Âge du Fer.
+*   Documents de l'animation "PrÃ©histoire de pierre" prÃªtÃ© par le MusÃ©e.
+*   Site internet hominidÃ©s.com
+*   Documents de l'INRAP sur le PalÃ©olithique, le MÃ©solithique, le NÃ©olithique, l'Ã‚ge du Bronze et l'Ã‚ge du Fer.
 
 ## UTILISATEUR
 
-**Scénario utilisateur**
+**ScÃ©nario utilisateur**
 
-1 - Le visiteur commence la visite du musée, voit les outils préhistoriques dans les vitrines, et a envie d'y **toucher** !
+1 - Le visiteur commence la visite du musÃ©e, voit les outils prÃ©historiques dans les vitrines, et a envie d'y **toucher** !
 
-2 - Il arrive près du Préhistopiano, dispositif intégré dans le parcours disposition. 
+2 - Il arrive prÃ¨s du PrÃ©histopiano, dispositif intÃ©grÃ© dans le parcours disposition. 
 
-3  - Il peut toucher les outils ! Et doit même les prendre délicatement en main de manière à recouvrir les deux bandes sur l'objet...
+3  - Il peut toucher les outils ! Et doit mÃªme les prendre dÃ©licatement en main de maniÃ¨re Ã  recouvrir les deux bandes sur l'objet...
 
-4  -  Lorsque le public touche les matériaux conducteurs collés sur les objets, ceux-ci produisent des sons. 
+4  -  Lorsque le public touche les matÃ©riaux conducteurs collÃ©s sur les objets, ceux-ci produisent des sons. 
 
-Le visiteur peut alors  découvrir les sons de la préhistoire : taille de la pierre, frottements, ...
+Le visiteur peut alors  dÃ©couvrir les sons de la prÃ©histoire : taille de la pierre, frottements, ...
 
-5 - ... et peut les utiliser pour composer ses propres bandes sonores de la préhistoire !
+5 - ... et peut les utiliser pour composer ses propres bandes sonores de la prÃ©histoire !
 
 **Mode d'emploi ou lien vers le mode d'emploi**
 
@@ -276,21 +259,21 @@ Le visiteur peut alors  découvrir les sons de la préhistoire : taille de la pier
 
 ## FONCTIONNEMENT ET FABRICATION
 
-**Matériaux utilisés (prêt du service de médiation du Musée de Bretagne des facsimilés utilisés lors des visites de groupes scolaires) :**![](https://hackpad-attachments.s3.amazonaws.com/museomixouest.hackpad.com_osYPekaEB4Y_p.512150_1447587416958_TEXTES.png)
+**MatÃ©riaux utilisÃ©s (prÃªt du service de mÃ©diation du MusÃ©e de Bretagne des facsimilÃ©s utilisÃ©s lors des visites de groupes scolaires) :**![](https://hackpad-attachments.s3.amazonaws.com/museomixouest.hackpad.com_osYPekaEB4Y_p.512150_1447587416958_TEXTES.png)
 
-**Machines ou technologie(s) utilisées**
+**Machines ou technologie(s) utilisÃ©es**
 
-*   Gravure et découpe laser sur bois (fabrication du mobilier)
+*   Gravure et dÃ©coupe laser sur bois (fabrication du mobilier)
 *   Arduino (capteurs tactiles)
 *   Makey Makey (interface) 
 *   Open Frameworks (programmation)
-*   Accéléromètre
-*   Séquenceur Reaper (sound design)
-*   Twisted Wave (édition du son)
+*   AccÃ©lÃ©romÃ¨tre
+*   SÃ©quenceur Reaper (sound design)
+*   Twisted Wave (Ã©dition du son)
 *   InDesign, Illustrator, Photoshop (graphisme)
-*   After effect (vidéo)
-*   iPhone (vidéo)
-*   vidéo projecteur
+*   After effect (vidÃ©o)
+*   iPhone (vidÃ©o)
+*   vidÃ©o projecteur
 *   Peinture
 *   Linux
 *   Google doc
@@ -300,94 +283,99 @@ Le visiteur peut alors  découvrir les sons de la préhistoire : taille de la pier
 
 ## FICHIERS ET CODES SOURCES
 
-L'ensemble du code a été réalisé en C++ avec openFrameworks ([](http://openframeworks.cc)http://[o](http://et)[p](http://oet)[e](http://opet)[n](http://opeet)[f](http://openet)[r](http://openfet)[a](http://openfret)[m](http://openfraet)[e](http://openframet)[w](http://openframeet)[o](http://openframewet)[r](http://openframewoet)[k](http://openframeworet)[s](http://openframeworket)[.](http://openframeworkset)[c](http://openframeworks.et)[c](http://openframeworks.cet)[ ](http://openframeworks.ccet)) et le projet est en ligne sur github à l'adresse suivante : 
+L'ensemble du code a Ã©tÃ© rÃ©alisÃ© en C++ avec openFrameworks ([](http://openframeworks.cc)http://[o](http://et)[p](http://oet)[e](http://opet)[n](http://opeet)[f](http://openet)[r](http://openfet)[a](http://openfret)[m](http://openfraet)[e](http://openframet)[w](http://openframeet)[o](http://openframewet)[r](http://openframewoet)[k](http://openframeworet)[s](http://openframeworket)[.](http://openframeworkset)[c](http://openframeworks.et)[c](http://openframeworks.cet)[ ](http://openframeworks.ccet)) et le projet est en ligne sur github Ã  l'adresse suivante : 
 
 [](https://github.com/giloop/PrehistoPiano-MuseoMix)https://github.com/giloop/PrehistoPiano-MuseoMix
 
-Vous y retrouverez notamment le code source du programme C++, mais aussi un zip contenant un version "light" du programme exécutable pour jouer chez vous au PréhistoPiano (avec votre clavier d'ordinateur, c'est tout de suite moins préhistorique). Les sons et vidéos sont dans le dossier data du fichier zip de l'application. Les vidéos ont été redimensionnées pour pouvoir être mise en ligne (redimensionnées et raccourcies). 
+Vous y retrouverez notamment le code source du programme C++, mais aussi un zip contenant un version "light" du programme exÃ©cutable pour jouer chez vous au PrÃ©histoPiano (avec votre clavier d'ordinateur, c'est tout de suite moins prÃ©historique). Les sons et vidÃ©os sont dans le dossier data du fichier zip de l'application. Les vidÃ©os ont Ã©tÃ© redimensionnÃ©es pour pouvoir Ãªtre mise en ligne (redimensionnÃ©es et raccourcies). 
 
 Le mode d'emploi est fourni sur la page github. 
 
-## MÉDIATION
+## MÃ‰DIATION
 
 **Texte du cartel**
 
-Voyagez dans le temps grâce au Préhistopiano, un dispositif interactif et sensoriel qui vous plonge au cSur de la Préhistoire !
+Voyagez dans le temps grÃ¢ce au PrÃ©histopiano, un dispositif interactif et sensoriel qui vous plonge au cSur de la PrÃ©histoire !
 
-Transgressez les règles habituelles du musée : touchez, faites du bruit !
+Transgressez les rÃ¨gles habituelles du musÃ©e : touchez, faites du bruit !
 
-Construite sous la forme dun clavier semi-circulaire, cette matériauthèque vous présente une sélection dobjets de lexposition permanente. Linteraction tactile avec les outils (grattoir, burin, haches, etc.) déclenche la diffusion de contenus audiovisuels liés à lutilisation de ces objets, aux gestes et aux techniques de lépoque.
+Construite sous la forme dun clavier semi-circulaire, cette matÃ©riauthÃ¨que vous prÃ©sente une sÃ©lection dobjets de lexposition permanente. Linteraction tactile avec les outils (grattoir, burin, haches, etc.) dÃ©clenche la diffusion de contenus audiovisuels liÃ©s Ã  lutilisation de ces objets, aux gestes et aux techniques de lÃ©poque.
 
-Les sons ont été enregistrés en manipulant ces outils, puis retravaillés pour créer des nappes sonores qui se déployent dans le temps. Les vidéos, centrées sur le geste, vous proposent de découvrir le patrimoine immatériel préhistorique à travers les techniques ancestrales de manipulation des outils.
+Les sons ont Ã©tÃ© enregistrÃ©s en manipulant ces outils, puis retravaillÃ©s pour crÃ©er des nappes sonores qui se dÃ©ployent dans le temps. Les vidÃ©os, centrÃ©es sur le geste, vous proposent de dÃ©couvrir le patrimoine immatÃ©riel prÃ©historique Ã  travers les techniques ancestrales de manipulation des outils.
 
-Le dispositif sactive au toucher, grâce à des matières conductrices reliées à une carte Arduino pilotée par un programme informatique. Lorsque vous enlevez votre main, le son et la vidéo sarrêtent et se réinitialisent, dans le but de vous inciter à réitérer votre expérience sensorielle.
+Le dispositif sactive au toucher, grÃ¢ce Ã  des matiÃ¨res conductrices reliÃ©es Ã  une carte Arduino pilotÃ©e par un programme informatique. Lorsque vous enlevez votre main, le son et la vidÃ©o sarrÃªtent et se rÃ©initialisent, dans le but de vous inciter Ã  rÃ©itÃ©rer votre expÃ©rience sensorielle.
 
-Le Préhistopiano, table dorientation temporelle et audiovisuelle, présente un classement chronologique des objets depuis le Paléolithique jusquà lÂge de Bronze. 
+Le PrÃ©histopiano, table dorientation temporelle et audiovisuelle, prÃ©sente un classement chronologique des objets depuis le PalÃ©olithique jusquÃ  lÃ‚ge de Bronze. 
 
-Ecoutez, composez, ressentez, imaginez, découvrez !
+Ecoutez, composez, ressentez, imaginez, dÃ©couvrez !
 
-**Comment présenter le prototype**
+**Comment prÃ©senter le prototype**
 
-Un musée est une institution, avec des règles à respecter: ne pas toucher, ne pas courir, ne pas crier, &
+Un musÃ©e est une institution, avec des rÃ¨gles Ã  respecter: ne pas toucher, ne pas courir, ne pas crier, &
 
-Aujourd'hui, nous vous proposons de transgresser certaines de ces règles : vous êtes invité à toucher, et à faire du bruit !
+Aujourd'hui, nous vous proposons de transgresser certaines de ces rÃ¨gles : vous Ãªtes invitÃ© Ã  toucher, et Ã  faire du bruit !
 
-Avec le<u> Préhistopiano</u>, **appropriez-vous les objets de la Préhistoire**, manipulez les millénaires, remixez l'Histoire de vos ancêtres.
+Avec le<u> PrÃ©histopiano</u>, **appropriez-vous les objets de la PrÃ©histoire**, manipulez les millÃ©naires, remixez l'Histoire de vos ancÃªtres.
 
-**Touchez-les** : **à chaque outil, correspond une sonorité.** Ces sons, ce sont ceux du travail des pierres, de la taille, des outillages en action, des matières en répercussion.  
+**Touchez-les** : **Ã  chaque outil, correspond une sonoritÃ©.** Ces sons, ce sont ceux du travail des pierres, de la taille, des outillages en action, des matiÃ¨res en rÃ©percussion.  
 
-Dialoguez avec des objets, de la Paléolithique à l'Age de Bronze, et **voyagez dans le temps **en créant votre propre bande sonore de la Préhistoire !
+Dialoguez avec des objets, de la PalÃ©olithique Ã  l'Age de Bronze, et **voyagez dans le temps **en crÃ©ant votre propre bande sonore de la PrÃ©histoire !
 
 ## CAHIER DE LABORATOIRE
-<undefined><li>**Vous avez changé d'avis en cours de route, incrivez pourquoi**</li></undefined>
+<undefined><li>**Vous avez changÃ© d'avis en cours de route, incrivez pourquoi**</li></undefined>
 
 **CAHIER DES CHARGES**
 
-*
+<u>Formation de l'Ã©quipe et contours du projets</u>
 
-**   <u>Formation de l'équipe et contours du projets</u>
-**   L'équipe s'est constituée autour du panneau Préhistoire. Les post-it collés lors de la visite de l'espace ont engagé la réflexion sur le besoin de **recréer le lien entre le visiteur et les objets présentés**, notamment au niveau des matières, de l'affect, de l'humain. En quelques minutes, nous avons donc engagé le désir de créer un **projet immersif**, d'ajouter une dimension **sensible et humaine**, d'**apprendre** par les sens et l'imagination.
-**   En rassemblant, lisant et organisant les post-it, quatre axes, quatre catégories se sont dégagés:
+L'Ã©quipe s'est constituÃ©e autour du panneau PrÃ©histoire. Les post-it collÃ©s lors de la visite de l'espace ont engagÃ© la rÃ©flexion sur le besoin de **recrÃ©er le lien entre le visiteur et les objets prÃ©sentÃ©s**, notamment au niveau des matiÃ¨res, de l'affect, de l'humain. En quelques minutes, nous avons donc engagÃ© le dÃ©sir de crÃ©er un **projet immersif**, d'ajouter une dimension **sensible et humaine**, d'**apprendre** par les sens et l'imagination.
+
+En rassemblant, lisant et organisant les post-it, quatre axes, quatre catÃ©gories se sont dÃ©gagÃ©s:
+
 *   -** sensoriel : **entendre et surtout toucher
-*   - **humain :**  empreinte, découverte
-*   - **interaction : **donner vie, entrer, être dedans
-*   - **récit**
-**   Les publics ont donc la volonté de se rapprocher des objets présentés, de toucher les pierres, les outils, voir l'intérieur des maquettes et les re-contextualiser, interagir avec une époque lointaine, la revivre.
+*   - **humain :**  empreinte, dÃ©couverte
+*   - **interaction : **donner vie, entrer, Ãªtre dedans
+*   - **rÃ©cit**
+**   Les publics ont donc la volontÃ© de se rapprocher des objets prÃ©sentÃ©s, de toucher les pierres, les outils, voir l'intÃ©rieur des maquettes et les re-contextualiser, interagir avec une Ã©poque lointaine, la revivre.
 
-**_L'équipe :_**
+**_L'Ã©quipe :_**
 
- #t[e](/ep/search/?q=%23t&via=osYPekaEB4Y)[a](/ep/search/?q=%23te&via=osYPekaEB4Y)[m](/ep/search/?q=%23tea&via=osYPekaEB4Y)[B](/ep/search/?q=%23team&via=osYPekaEB4Y)[r](/ep/search/?q=%23teamB&via=osYPekaEB4Y)[i](/ep/search/?q=%23teamBr&via=osYPekaEB4Y)[g](/ep/search/?q=%23teamBri&via=osYPekaEB4Y)[i](/ep/search/?q=%23teamBrig&via=osYPekaEB4Y)[t](/ep/search/?q=%23teamBrigi&via=osYPekaEB4Y)[t](/ep/search/?q=%23teamBrigit&via=osYPekaEB4Y)[e](/ep/search/?q=%23teamBrigitt&via=osYPekaEB4Y)
+Notre nom a Ã©tÃ© choisi en honneur Ã  la statuette qui boucle le parcours PrÃ©histoire. 
 
-Notre nom a été choisi en honneur à la statuette qui boucle le parcours Préhistoire. 
+<u>DÃ©finition du projet</u>
 
-**   <u>Définition du projet</u>
-**   Suite à la visite de la médiatrice et à son coup du cSur autour de la maquette du Tumulus de Barnenez, nous avons souhaité valorisé cette architecture miniature qui représente certes l'original, mais de manière décontextualisée. La maquette du Tumulus est hors de son environnement initial, enfermé dans une vitrine qui ne lui rend pas justice. Partant des publics, nous avons voulu les amener à appréhender le Tumulus, en interagissant avec lui. Nous avons alors pensé à faire élaborer une maquette du bâtiment sur le jeu vidéo Minecraft, invitant le public à reconstruire le Tumulus, puis à s'y promener, à se l'approprier. Le jeu vidéo a un succès incontestable et multi-générationel. L'utilisation de ces légos numériques dans un contexte muséal permet de mettre en valeur un objet qui tient particulièrement à cSur à l'équipe du musée, de le faire vivre en écho avec les gestes et les actes des publics/utilisateurs.
-**   Ce **minecraft archéologique** a été imaginé comme un point d'un parcours ludique et immersif au sein de l'espace Préhistoire.
-**   Nous avons également pensé à utiliser **la figure de Brigitte**, statue qui est devenue notre totem et qui a symbolisé notre équipe. L'idée était de déshabiller ou ré-habiller Brigitte mais n'a pas été retenue par la suite.
-**   Les objets et outils de cet espace muséal sont nombreux, et enclavés dans des vitrines. Seul le regard peut y accéder. Ainsi nous avons souhaité faire travailler les autres sens des visiteurs et non seulement la vue, car il y a énormément à voir pendant le parcours et tout au long du musée. Il s'agit de créer des liens de différentes manières entre les objets, témoins d'une époque, et les visiteurs, aux profils variés. Nous avons absolument souhaité donner la possibilité aux publics de pouvoir toucher ces outils. Une manipulation des objets, une appréhension ou un rapide apprentissage des gestes oubliés de la Préhistoire incluait un événement ponctuel avec les gens, ainsi nous nous sommes basés sur une installation pérenne et accessible, dans laquelle les visiteurs pourraient toucher les objets. Cette dimension du toucher revêt une aura exceptionnelle au sein d'un contexte muséal où les objets sont protégés dans des vitrines, et un aspect presque mystique de reconquête des objets d'un passé bien lointain. Au delà du toucher, il s'agit donc de faire vivre une expérience, et de développer un imaginaire autour des gestes. 
-*   Un imaginaire qui sera construit par un environnement sonore, lui même déclenché par l'interaction tactile entre les outils et les publics. En effet, lorsque l'utilisateur de l'installation touchera les objets, un son sera déclenché. Une nappe sonore par objet, permettant de construire un univers sonore et personnalisé, de prendre le temps de composer, et imaginer l'utilisation de ces objets. 
-*   Pour renvoyer à des gestes de taille, de coupe, évoquant une utilisation ancestrale et en partie oubliée, des vidéos seront présentées, liées à la dimension tactile. 
-*   Les objets sont organisés en ordre chronologique, comme en voyage musical dans le temps.
-**   Avec le** préhistopiano**, le visiteur ressent, interagit, découvre et apprend.
+Suite Ã  la visite de la mÃ©diatrice et Ã  son coup du cSur autour de la maquette du Tumulus de Barnenez, nous avons souhaitÃ© valorisÃ© cette architecture miniature qui reprÃ©sente certes l'original, mais de maniÃ¨re dÃ©contextualisÃ©e. La maquette du Tumulus est hors de son environnement initial, enfermÃ© dans une vitrine qui ne lui rend pas justice. Partant des publics, nous avons voulu les amener Ã  apprÃ©hender le Tumulus, en interagissant avec lui. Nous avons alors pensÃ© Ã  faire Ã©laborer une maquette du bÃ¢timent sur le jeu vidÃ©o Minecraft, invitant le public Ã  reconstruire le Tumulus, puis Ã  s'y promener, Ã  se l'approprier. Le jeu vidÃ©o a un succÃ¨s incontestable et multi-gÃ©nÃ©rationel. L'utilisation de ces lÃ©gos numÃ©riques dans un contexte musÃ©al permet de mettre en valeur un objet qui tient particuliÃ¨rement Ã  cSur Ã  l'Ã©quipe du musÃ©e, de le faire vivre en Ã©cho avec les gestes et les actes des publics/utilisateurs.
+
+Ce **minecraft archÃ©ologique** a Ã©tÃ© imaginÃ© comme un point d'un parcours ludique et immersif au sein de l'espace PrÃ©histoire.
+
+Nous avons Ã©galement pensÃ© Ã  utiliser **la figure de Brigitte**, statue qui est devenue notre totem et qui a symbolisÃ© notre Ã©quipe. L'idÃ©e Ã©tait de dÃ©shabiller ou rÃ©-habiller Brigitte mais n'a pas Ã©tÃ© retenue par la suite.
+
+Les objets et outils de cet espace musÃ©al sont nombreux, et enclavÃ©s dans des vitrines. Seul le regard peut y accÃ©der. Ainsi nous avons souhaitÃ© faire travailler les autres sens des visiteurs et non seulement la vue, car il y a Ã©normÃ©ment Ã  voir pendant le parcours et tout au long du musÃ©e. Il s'agit de crÃ©er des liens de diffÃ©rentes maniÃ¨res entre les objets, tÃ©moins d'une Ã©poque, et les visiteurs, aux profils variÃ©s. Nous avons absolument souhaitÃ© donner la possibilitÃ© aux publics de pouvoir toucher ces outils. Une manipulation des objets, une apprÃ©hension ou un rapide apprentissage des gestes oubliÃ©s de la PrÃ©histoire incluait un Ã©vÃ©nement ponctuel avec les gens, ainsi nous nous sommes basÃ©s sur une installation pÃ©renne et accessible, dans laquelle les visiteurs pourraient toucher les objets. Cette dimension du toucher revÃªt une aura exceptionnelle au sein d'un contexte musÃ©al oÃ¹ les objets sont protÃ©gÃ©s dans des vitrines, et un aspect presque mystique de reconquÃªte des objets d'un passÃ© bien lointain.Au delÃ  du toucher, il s'agit donc de faire vivre une expÃ©rience, et de dÃ©velopper un imaginaire autour des gestes. 
+
+*   Un imaginaire qui sera construit par un environnement sonore, lui mÃªme dÃ©clenchÃ© par l'interaction tactile entre les outils et les publics. En effet, lorsque l'utilisateur de l'installation touchera les objets, un son sera dÃ©clenchÃ©. Une nappe sonore par objet, permettant de construire un univers sonore et personnalisÃ©, de prendre le temps de composer, et imaginer l'utilisation de ces objets. 
+*   Pour renvoyer Ã  des gestes de taille, de coupe, Ã©voquant une utilisation ancestrale et en partie oubliÃ©e, des vidÃ©os seront prÃ©sentÃ©es, liÃ©es Ã  la dimension tactile. 
+*   Les objets sont organisÃ©s en ordre chronologique, comme en voyage musical dans le temps.
+
+Avec le** prÃ©histopiano**, le visiteur ressent, interagit, dÃ©couvre et apprend.
 
 *   Jour 2
 
 <u>Questionnements</u>
 
-Le Préhistopiano a posé quelques questions :
+Le PrÃ©histopiano a posÃ© quelques questions :
 
 *   l'abandon du geste du visiteur, qui se transforme en toucher
-*   l'identité sonore : faut-il proposer des échantillons avec un certain rythme, une musicalité ? Ou privilégier des sonorités plus documentaires, plus anarchiques ?
+*   l'identitÃ© sonore : faut-il proposer des Ã©chantillons avec un certain rythme, une musicalitÃ© ? Ou privilÃ©gier des sonoritÃ©s plus documentaires, plus anarchiques ?
 
-Pour nous, le geste se retrouve dans la vidéo, qui fait le lien avec les sonorités qui sont elles-même provoquées par le toucher. les sens sont liés, au sein d'un immersion, sonore, visuelle, et provoquant l'imagination. Ces sons seront directement enregistrés des objets eux-même, par la taille, le frottement, les  gestes.
+Pour nous, le geste se retrouve dans la vidÃ©o, qui fait le lien avec les sonoritÃ©s qui sont elles-mÃªme provoquÃ©es par le toucher. les sens sont liÃ©s, au sein d'un immersion, sonore, visuelle, et provoquant l'imagination. Ces sons seront directement enregistrÃ©s des objets eux-mÃªme, par la taille, le frottement, les  gestes.
 
 <u>Trouver un nom </u>
 
-Maintenant que nous sommes sûrs de notre projet (que nous défendons corps et âmes de mammouth), nous voilà prêts à le mettre en place... Et à nous mettre d'accord sur le nom, car Préhistopiano, le nom initial, ne fait pas l'unanimité !
+Maintenant que nous sommes sÃ»rs de notre projet (que nous dÃ©fendons corps et Ã¢mes de mammouth), nous voilÃ  prÃªts Ã  le mettre en place... Et Ã  nous mettre d'accord sur le nom, car PrÃ©histopiano, le nom initial, ne fait pas l'unanimitÃ© !
 
 Propositions de nom de projet :
 
-*   Préhistopiano
+*   PrÃ©histopiano
 *   Tactilophone
 *   Contact
 *   Dogrezi
@@ -397,18 +385,18 @@ Propositions de nom de projet :
 *   Pianitool
 *   Zix
 
-Après vote aux gommettes, c'est finalement** Préhistopiano,** le nom initial, qui continue de donner son nom illustratif au projet.
+AprÃ¨s vote aux gommettes, c'est finalement** PrÃ©histopiano,** le nom initial, qui continue de donner son nom illustratif au projet.
 
 **Heure historique **:** 01h34**
 
-Premier essai de la pierre tactile et sonore : **ça marche !!!!**! (plus ou moins mais presque)
+Premier essai de la pierre tactile et sonore : **Ã§a marche !!!!**! (plus ou moins mais presque)
 
 *   Jour 3
 
-Réveil difficile, les yeux sont cernés mais on ne perd pas ni notre motivation ni notre enthousiasme ! Une bouteille de café a rejoint notre table.
+RÃ©veil difficile, les yeux sont cernÃ©s mais on ne perd pas ni notre motivation ni notre enthousiasme ! Une bouteille de cafÃ© a rejoint notre table.
 
 Nous mettons en place l'installation : 
 
-*   Assemblage des objets, des fils et des matières conductrices aux créations audiovisuelles
-*   Fabrication de notre MAGNIFIQUE Préhistopiano
-*   Création des cartels à destination du public
+*   Assemblage des objets, des fils et des matiÃ¨res conductrices aux crÃ©ations audiovisuelles
+*   Fabrication de notre MAGNIFIQUE PrÃ©histopiano
+*   CrÃ©ation des cartels Ã  destination du public
