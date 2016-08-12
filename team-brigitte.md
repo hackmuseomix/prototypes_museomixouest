@@ -4,7 +4,7 @@
 
 SVP compléter chacune des informations demandées, c'est pour la postérité!
 
-## Projet Préhistopiano
+## Projet Préhistophiano
 
 **Équipe**
 
@@ -53,16 +53,16 @@ Mais c'est quoi ? Ben, un PréhistoPiano ! Mais ça sert à quoi ? Bah, à faire
 
 Le Préhistopiano est un dispositif intéractif et sensoriel pour toucher et écouter la Préhistoire. 
 
-Il permet de faire connaissance avec les outils de la Préhistoire par lexpérimentation sensorielle et lémotion. 
+Il permet de faire connaissance avec les outils de la Préhistoire par lexpérimentation sensorielle et lémotion. 
 
 
-Nous présentons ici u**ne matéria**uthèque sous la forme dun clavier. Linteraction tactile avec les objets présentés (grattoir, burin, haches, etc.) enclenche la diffusion de contenus sonores liés à lutilisation de lobjet, aux gestes et aux techniques.
+Nous présentons ici u**ne matéria**uthèque sous la forme dun clavier. Linteraction tactile avec les objets présentés (grattoir, burin, haches, etc.) enclenche la diffusion de contenus sonores liés à lutilisation de lobjet, aux gestes et aux techniques.
 
 
-Les objets sont classés chronologiquement pour couvrir les périodes de la Préhistoire : depuis le Paléolithique jusquà lÂge du Fer. 
+Les objets sont classés chronologiquement pour couvrir les périodes de la Préhistoire : depuis le Paléolithique jusquà lÂge du Fer. 
 
 
-Un voyage musical au temps de la Préhistoire dont vous êtes le compositeur. </undefined>
+Un voyage musical au temps de la Préhistoire dont vous êtes le compositeur. 
 
 **Articles de presse :**
 
@@ -224,7 +224,7 @@ Ce prototype est sous licence Creative Commons - Paternité - Partage à l'ident
 
 **Intention / Contexte / Volonté de départ**
 
-L'intention de départ était de créer une immersion sensorielle et émotive pour le visiteur. Impliquer le corps pour le connecter aux objets et à leur utilisation passée. Développer une approche sensible qui laisse une place à l'imaginaire. Dans le contexte de l'espace Préhistorique du Musée de Bretagne, ce projet se veut être une synthèse de matières et de sons du Paléolithique à lÂge du Fer.
+L'intention de départ était de créer une immersion sensorielle et émotive pour le visiteur. Impliquer le corps pour le connecter aux objets et à leur utilisation passée. Développer une approche sensible qui laisse une place à l'imaginaire. Dans le contexte de l'espace Préhistorique du Musée de Bretagne, ce projet se veut être une synthèse de matières et de sons du Paléolithique à lÂge du Fer.
 
 **Choix de l'objet ou de l'espace**
 
@@ -298,13 +298,13 @@ Voyagez dans le temps grâce au Préhistopiano, un dispositif interactif et sens
 
 Transgressez les règles habituelles du musée : touchez, faites du bruit !
 
-Construite sous la forme dun clavier semi-circulaire, cette matériauthèque vous présente une sélection dobjets de lexposition permanente. Linteraction tactile avec les outils (grattoir, burin, haches, etc.) déclenche la diffusion de contenus audiovisuels liés à lutilisation de ces objets, aux gestes et aux techniques de lépoque.
+Construite sous la forme dun clavier semi-circulaire, cette matériauthèque vous présente une sélection dobjets de lexposition permanente. Linteraction tactile avec les outils (grattoir, burin, haches, etc.) déclenche la diffusion de contenus audiovisuels liés à lutilisation de ces objets, aux gestes et aux techniques de lépoque.
 
 Les sons ont été enregistrés en manipulant ces outils, puis retravaillés pour créer des nappes sonores qui se déployent dans le temps. Les vidéos, centrées sur le geste, vous proposent de découvrir le patrimoine immatériel préhistorique à travers les techniques ancestrales de manipulation des outils.
 
-Le dispositif sactive au toucher, grâce à des matières conductrices reliées à une carte Arduino pilotée par un programme informatique. Lorsque vous enlevez votre main, le son et la vidéo sarrêtent et se réinitialisent, dans le but de vous inciter à réitérer votre expérience sensorielle.
+Le dispositif sactive au toucher, grâce à des matières conductrices reliées à une carte Arduino pilotée par un programme informatique. Lorsque vous enlevez votre main, le son et la vidéo sarrêtent et se réinitialisent, dans le but de vous inciter à réitérer votre expérience sensorielle.
 
-Le Préhistopiano, table dorientation temporelle et audiovisuelle, présente un classement chronologique des objets depuis le Paléolithique jusquà lÂge de Bronze. 
+Le Préhistopiano, table dorientation temporelle et audiovisuelle, présente un classement chronologique des objets depuis le Paléolithique jusquà lÂge de Bronze. 
 
 Ecoutez, composez, ressentez, imaginez, découvrez !
 
