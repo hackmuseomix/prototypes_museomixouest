@@ -77,7 +77,7 @@ Mais c'est quoi ? Ben, un PréhistoPiano ! Mais ça sert à quoi ? Bah, à faire
 
 - [](http://www.unidivers.fr/museomix-2015-musee-de-bretagne-rennes/)http://www.unidivers.fr/museomix-2015-musee-de-bretagne-rennes/
 
-** Photos**
+**Photos**
 
 ![](https://hackpad-attachments.s3.amazonaws.com/museomixouest.hackpad.com_osYPekaEB4Y_p.512150_1447509949593_CTsZPalWoAAoS1q.jpg-large.jpeg)
 
@@ -241,7 +241,7 @@ L'équipe s'est rassemblée autour de l'espace Préhistoire et de la volonté d'
 
 **Scénario utilisateur**
 
-1 - Le visiteur commence la visite du musée, voit les outils préhistoriques dans les vitrines, et a envie d'y**toucher** !
+1 - Le visiteur commence la visite du musée, voit les outils préhistoriques dans les vitrines, et a envie d'y**toucher**!
 
 2 - Il arrive près du Préhistopiano, dispositif intégré dans le parcours disposition. 
 
@@ -317,7 +317,7 @@ Aujourd'hui, nous vous proposons de transgresser certaines de ces règles : vous
 
 Avec le<u> Préhistopiano</u>,**appropriez-vous les objets de la Préhistoire**, manipulez les millénaires, remixez l'Histoire de vos ancêtres.
 
-**Touchez-les** :**à chaque outil, correspond une sonorité.** Ces sons, ce sont ceux du travail des pierres, de la taille, des outillages en action, des matières en répercussion.  
+**Touchez-les**:**à chaque outil, correspond une sonorité.** Ces sons, ce sont ceux du travail des pierres, de la taille, des outillages en action, des matières en répercussion.  
 
 Dialoguez avec des objets, de la Paléolithique à l'Age de Bronze, et**voyagez dans le temps**en créant votre propre bande sonore de la Préhistoire !
 
@@ -332,9 +332,9 @@ L'équipe s'est constituée autour du panneau Préhistoire. Les post-it collés 
 
 En rassemblant, lisant et organisant les post-it, quatre axes, quatre catégories se sont dégagés:
 
-*   -** sensoriel :**entendre et surtout toucher
+*   -**sensoriel :**entendre et surtout toucher
 *   -**humain :**  empreinte, découverte
-*   -**interaction :**donner vie, entrer, être dedans
+*   -**interaction :** donner vie, entrer, être dedans
 *   -**récit**
 **   Les publics ont donc la volonté de se rapprocher des objets présentés, de toucher les pierres, les outils, voir l'intérieur des maquettes et les re-contextualiser, interagir avec une époque lointaine, la revivre.
 
@@ -356,7 +356,7 @@ Les objets et outils de cet espace muséal sont nombreux, et enclavés dans des 
 *   Pour renvoyer à des gestes de taille, de coupe, évoquant une utilisation ancestrale et en partie oubliée, des vidéos seront présentées, liées à la dimension tactile. 
 *   Les objets sont organisés en ordre chronologique, comme en voyage musical dans le temps.
 
-Avec le** préhistopiano**, le visiteur ressent, interagit, découvre et apprend.
+Avec le **préhistopiano**, le visiteur ressent, interagit, découvre et apprend.
 
 *   Jour 2
 
@@ -385,11 +385,11 @@ Propositions de nom de projet :
 *   Pianitool
 *   Zix
 
-Après vote aux gommettes, c'est finalement** Préhistopiano,** le nom initial, qui continue de donner son nom illustratif au projet.
+Après vote aux gommettes, c'est finalement **Préhistopiano,** le nom initial, qui continue de donner son nom illustratif au projet.
 
-**Heure historique**:** 01h34**
+**Heure historique**:  01h34
 
-Premier essai de la pierre tactile et sonore :**ça marche !!!!**! (plus ou moins mais presque)
+Premier essai de la pierre tactile et sonore : **ça marche !!!!**! (plus ou moins mais presque)
 
 *   Jour 3
 
