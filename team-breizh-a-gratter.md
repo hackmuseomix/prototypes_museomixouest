@@ -42,13 +42,13 @@ Le visiteur est interpellé, on lui pose une question, il répond par l'affirmat
 
 **Photos**
 
-**Salle(s) / objet ou espaces remixés **
+**Salle(s) / objet ou espaces remixés**
 
 Salle de La Bretagne contemporaine qui traite des thématiques suivantes : l'agriculture, l'industrie, la culture bretonne, la pêche...
 
 Intervention scénographique sur un des 7 totems et sur l'ensemble des vitrines de la salle. Pour des raisons de temps, nous n'avons développé qu'un seul thèmes sur les 7.
 
-**Liens externes (si applicable) **
+**Liens externes (si applicable)**
 
 *   Photos, vidéos, Site Internet, etc. 
 
@@ -74,9 +74,9 @@ Et Copyleft !
 
 **Intention / Contexte / Volonté de départ**
 
-La salle de la Bretagne contemporaine, pour léquipe, correspondait a une image lissée de la Bretagne, on y glorifie essentiellement les politiques publiques de ces 50 dernières années. Pour nous, ce sujet contemporain, ne peut se traduire par un seul point de vue dit objectif...
+La salle de la Bretagne contemporaine, pour l équipe, correspondait a une image lissée de la Bretagne, on y glorifie essentiellement les politiques publiques de ces 50 dernières années. Pour nous, ce sujet contemporain, ne peut se traduire par un seul point de vue dit objectif...
 
-Ainsi, lidée de départ  est de parler des choses qui fâchent pour remettre en question les éléments des vitrines. 
+Ainsi, l idée de départ  est de parler des choses qui fâchent pour remettre en question les éléments des vitrines. 
 
 L'objectif est de rendre visible un débat et les différents points de vue sur les sujets traités par la muséographie.
 
@@ -86,9 +86,9 @@ Remettre en cause le discours sacro-saint de l'institution muséale, favoriser e
 
 **Sources documentaires**
 
-Les différents bretons de léquipe
+Les différents bretons de l équipe
 
-Journaux dactualités et presse locale
+Journaux d actualités et presse locale
 
 Sites internet et groupes de lobbying  (syndicat Viande, France nature environnement, association écologistes, site des Bonnets rouges)
 
@@ -104,17 +104,17 @@ INTERPELER
 
 Le visiteur arrive dans la salle sur la Bretagne contemporaine, de par une scénographie de type agressive ( vitrine taguée, cartel changé, signalétique au sol, projection de vidéos, propos qui invite a réagir&).
 
-Après la lecture de la scénographie et de propos on ne peut plus gênant (lagriculture bretonne pollue et produit de nombreux cancers ;).
+Après la lecture de la scénographie et de propos on ne peut plus gênant (l agriculture bretonne pollue et produit de nombreux cancers ;).
 
 CONTRIBUER
 
-Le visiteur est alors interrogé par la borne située en front du Totem de lexposition initiale, celle-ci lui demande alors de donner son avis sur un sujet : Pour ou contre les OGM ?
+Le visiteur est alors interrogé par la borne située en front du Totem de l exposition initiale, celle-ci lui demande alors de donner son avis sur un sujet : Pour ou contre les OGM ?
 
  Notre ami muséophile, se positionne alors sur le sujet ( OUI/NON) Et paf ! la borne lui mentionne un avis contraire.
 
 RESTITUER
 
-Le visiteur a la chance de pouvoir répondre ( et oui !). Il inscrit alors sous la forme dun texte ou dune vidéo sa réponse au contre-argument. Sa contribution nourrit alors le débat, et servira alors pour lutilisateur suivant qui ne suivra pas son avis. 
+Le visiteur a la chance de pouvoir répondre ( et oui !). Il inscrit alors sous la forme d un texte ou d une vidéo sa réponse au contre-argument. Sa contribution nourrit alors le débat, et servira alors pour l utilisateur suivant qui ne suivra pas son avis. 
 
 Le visiteur aura pu avoir au moins 3 points de vue sur le sujet et donner le sien.
 
